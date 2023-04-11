@@ -1,0 +1,3661 @@
+<?xml version="1.0" encoding="UTF-8"?> <!-- Copyright (c) 2019 Clarivate Analytics Web of Science  -->
+<records xmlns="http://clarivate.com/schema/wok5.30/public/FullRecord">
+
+<REC r_id_disclaimer="ResearcherID data provided by Clarivate Analytics">
+<UID>WOS:000885944600004</UID>
+<static_data>
+<summary>
+<EWUID>
+<WUID coll_id="WOS"/>
+<edition value="WOS.SCI"/>
+</EWUID>
+<pub_info sortdate="2023-01-01" pubyear="2023" has_abstract="Y" coverdate="JAN 2023" pubmonth="JAN" vol="317" part_no="A" pubtype="Journal">
+<page page_count="6"/>
+</pub_info>
+<titles count="6">
+<title type="source">JOURNAL OF SOLID STATE CHEMISTRY</title>
+<title type="source_abbrev">J SOLID STATE CHEM</title>
+<title type="abbrev_iso">J. Solid State Chem.</title>
+<title type="abbrev_11">J SOL ST CH</title>
+<title type="abbrev_29">J SOLID STATE CHEM</title>
+<title type="item">Syntheses of new high-symmetric polyoxometalates with Mo4O4 cubane core</title>
+</titles>
+<names count="3">
+<name seq_no="1" role="author" addr_no="1 2">
+<display_name>Zhou, Xi -Yuan</display_name>
+<full_name>Zhou, Xi -Yuan</full_name>
+<wos_standard>Zhou, XY</wos_standard>
+<first_name>Xi -Yuan</first_name>
+<last_name>Zhou</last_name>
+</name>
+<name seq_no="2" role="author" reprint="Y" addr_no="1">
+<display_name>Wang, Fei</display_name>
+<full_name>Wang, Fei</full_name>
+<wos_standard>Wang, F</wos_standard>
+<first_name>Fei</first_name>
+<last_name>Wang</last_name>
+<email_addr>wangfei04@fjirsm.ac.cn</email_addr>
+</name>
+<name seq_no="3" role="author" reprint="Y" addr_no="1">
+<display_name>Zhang, Jian</display_name>
+<full_name>Zhang, Jian</full_name>
+<wos_standard>Zhang, J</wos_standard>
+<first_name>Jian</first_name>
+<last_name>Zhang</last_name>
+<email_addr>zhj@fjirsm.ac.cn</email_addr>
+</name>
+</names>
+<doctypes count="1">
+<doctype>Article</doctype>
+</doctypes>
+<publishers>
+<publisher>
+<address_spec addr_no="1">
+<full_address>525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA</full_address>
+<city>SAN DIEGO</city>
+</address_spec>
+<names count="1">
+<name role="publisher" seq_no="1" addr_no="1">
+<display_name>ACADEMIC PRESS INC ELSEVIER SCIENCE</display_name>
+<full_name>ACADEMIC PRESS INC ELSEVIER SCIENCE</full_name>
+<unified_name>Elsevier</unified_name>
+</name>
+</names>
+</publisher>
+</publishers>
+</summary>
+<fullrecord_metadata>
+<languages count="1">
+<language type="primary">English</language>
+</languages>
+<normalized_languages count="1">
+<language type="primary">English</language>
+</normalized_languages>
+<normalized_doctypes count="1">
+<doctype>Article</doctype>
+</normalized_doctypes>
+<references count="35">
+<reference occurenceOrder="13">
+<uid>WOS:000397125500031</uid>
+<citedAuthor>Li, XY</citedAuthor>
+<year>2017</year>
+<page>3601</page>
+<volume>9</volume>
+<citedTitle>Anion-templated nanosized silver clusters protected by mixed thiolate and diphosphine</citedTitle>
+<citedWork>NANOSCALE</citedWork>
+<doi>10.1039/c6nr09632h</doi>
+</reference>
+<reference occurenceOrder="25">
+<uid>WOS:000406798700010</uid>
+<citedAuthor>Xuan, WM</citedAuthor>
+<year>2017</year>
+<page>9727</page>
+<volume>56</volume>
+<citedTitle>Exploring the Molecular Growth of Two Gigantic Half-Closed Polyoxometalate Clusters {Mo-180} and {Mo130Ce6}</citedTitle>
+<citedWork>ANGEWANDTE CHEMIE-INTERNATIONAL EDITION</citedWork>
+<doi>10.1002/anie.201702957</doi>
+</reference>
+<reference occurenceOrder="9">
+<uid>WOS:000490306800001</uid>
+<citedAuthor>Li, N</citedAuthor>
+<year>2019</year>
+<page>17260</page>
+<volume>58</volume>
+<citedTitle>Self-Assembly of a Phosphate-Centered Polyoxo-Titanium Cluster: Discovery of the Heteroatom Keggin Family</citedTitle>
+<citedWork>ANGEWANDTE CHEMIE-INTERNATIONAL EDITION</citedWork>
+<doi>10.1002/anie.201910491</doi>
+</reference>
+<reference occurenceOrder="11">
+<uid>WOS:000635570600006</uid>
+<citedAuthor>Ge, R</citedAuthor>
+<year>2021</year>
+<page>ARTN 213787</page>
+<volume>435</volume>
+<citedTitle>Recent advances in polyoxometalate-templated high-nuclear silver clusters</citedTitle>
+<citedWork>COORDINATION CHEMISTRY REVIEWS</citedWork>
+<doi>10.1016/j.ccr.2021.213787</doi>
+</reference>
+<reference occurenceOrder="32">
+<uid>WOS:000285963200052</uid>
+<citedAuthor>Biesinger, MC</citedAuthor>
+<year>2011</year>
+<page>2717</page>
+<volume>257</volume>
+<citedTitle>Resolving surface chemical states in XPS analysis of first row transition metals, oxides and hydroxides: Cr, Mn, Fe, Co and Ni</citedTitle>
+<citedWork>APPLIED SURFACE SCIENCE</citedWork>
+<doi>10.1016/j.apsusc.2010.10.051</doi>
+</reference>
+<reference occurenceOrder="8">
+<uid>WOS:000584085400001</uid>
+<citedAuthor>Li, SR</citedAuthor>
+<year>2021</year>
+<page>ARTN 2000777</page>
+<volume>5</volume>
+<citedTitle>A Giant 3d-4f Polyoxometalate Super-Tetrahedron with High Proton Conductivity</citedTitle>
+<citedWork>SMALL METHODS</citedWork>
+<doi>10.1002/smtd.202000777</doi>
+</reference>
+<reference occurenceOrder="28">
+<uid>WOS:000688249400017</uid>
+<citedAuthor>Li, XX</citedAuthor>
+<year>2021</year>
+<page>1288</page>
+<volume>1</volume>
+<citedTitle>Design of Crystalline Reduction-Oxidation Cluster-Based Catalysts for Artificial Photosynthesis</citedTitle>
+<citedWork>JACS AU</citedWork>
+<doi>10.1021/jacsau.1c00186</doi>
+</reference>
+<reference occurenceOrder="22">
+<uid>WOS:000264946300021</uid>
+<citedAuthor>Sigmon, GE</citedAuthor>
+<year>2009</year>
+<page>2737</page>
+<volume>48</volume>
+<citedTitle>Symmetry versus Minimal Pentagonal Adjacencies in Uranium-Based Polyoxometalate Fullerene Topologies</citedTitle>
+<citedWork>ANGEWANDTE CHEMIE-INTERNATIONAL EDITION</citedWork>
+<doi>10.1002/anie.200805870</doi>
+</reference>
+<reference occurenceOrder="20">
+<uid>WOS:000462622700034</uid>
+<citedAuthor>Xu, N</citedAuthor>
+<year>2019</year>
+<page>4649</page>
+<volume>58</volume>
+<citedTitle>From Octahedral to Icosahedral Metal-Organic Polyhedra Assembled from Two Types of Polyoxovanadate Clusters</citedTitle>
+<citedWork>ANGEWANDTE CHEMIE-INTERNATIONAL EDITION</citedWork>
+<doi>10.1002/anie.201900519</doi>
+</reference>
+<reference occurenceOrder="24">
+<uid>WOS:000186961500015</uid>
+<citedAuthor>Muller, A</citedAuthor>
+<year>2003</year>
+<page>153</page>
+<volume>245</volume>
+<citedTitle>En route from the mystery of molybdenum blue via related manipulatable building blocks to aspects of materials science</citedTitle>
+<citedWork>COORDINATION CHEMISTRY REVIEWS</citedWork>
+<doi>10.1016/S0010-8545(03)00110-3</doi>
+</reference>
+<reference occurenceOrder="14">
+<uid>WOS:000452399900028</uid>
+<citedAuthor>Li, Z</citedAuthor>
+<year>2018</year>
+<page>15777</page>
+<volume>57</volume>
+<citedTitle>All-Inorganic Ionic Porous Material Based on Giant Spherical Polyoxometalates Containing Core-Shell K-6@K-36-Water Cage</citedTitle>
+<citedWork>ANGEWANDTE CHEMIE-INTERNATIONAL EDITION</citedWork>
+<doi>10.1002/anie.201810074</doi>
+</reference>
+<reference occurenceOrder="30">
+<uid>WOS:000239069400008</uid>
+<citedAuthor>Park, KS</citedAuthor>
+<year>2006</year>
+<page>10186</page>
+<volume>103</volume>
+<citedTitle>Exceptional chemical and thermal stability of zeolitic imidazolate frameworks</citedTitle>
+<citedWork>PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA</citedWork>
+<doi>10.1073/pnas.0602439103</doi>
+</reference>
+<reference occurenceOrder="3">
+<uid>WOS:000177325400040</uid>
+<citedAuthor>Nyman, M</citedAuthor>
+<year>2002</year>
+<page>996</page>
+<volume>297</volume>
+<citedTitle>A general synthetic procedure for heteropolyniobates</citedTitle>
+<citedWork>SCIENCE</citedWork>
+</reference>
+<reference occurenceOrder="21">
+<uid>WOS:000506674500001</uid>
+<citedAuthor>Dong, LZ</citedAuthor>
+<year>2020</year>
+<page>2659</page>
+<volume>59</volume>
+<citedTitle>Stable Heterometallic Cluster-Based Organic Framework Catalysts for Artificial Photosynthesis</citedTitle>
+<citedWork>ANGEWANDTE CHEMIE-INTERNATIONAL EDITION</citedWork>
+<doi>10.1002/anie.201913284</doi>
+</reference>
+<reference occurenceOrder="35">
+<uid>WOS:000508464500107</uid>
+<citedAuthor>Sun, JB</citedAuthor>
+<year>2020</year>
+<page>2944</page>
+<volume>12</volume>
+<citedTitle>Efficient Construction of Near-Infrared Absorption Donor-Acceptor Copolymers with and without Pt(II)-Incorporation toward Broadband Nonlinear Optical Materials</citedTitle>
+<citedWork>ACS APPLIED MATERIALS &amp; INTERFACES</citedWork>
+<doi>10.1021/acsami.9b17784</doi>
+</reference>
+<reference occurenceOrder="26">
+<uid>WOS:000562942200039</uid>
+<citedAuthor>Lin, JM</citedAuthor>
+<year>2020</year>
+<page>13982</page>
+<volume>142</volume>
+<citedTitle>Self-Assembly of Giant Mo-240 Hollow Opening Dodecahedra</citedTitle>
+<citedWork>JOURNAL OF THE AMERICAN CHEMICAL SOCIETY</citedWork>
+<doi>10.1021/jacs.0c06582</doi>
+</reference>
+<reference occurenceOrder="16">
+<uid>WOS:000454383400008</uid>
+<citedAuthor>Zhang, YT</citedAuthor>
+<year>2018</year>
+<page>17365</page>
+<volume>140</volume>
+<citedTitle>Self-Assembly of Goldberg Polyhedra from a Concave [WV5O11(RCO2)(5)(SO4)](3-) Building Block with 5-Fold Symmetry</citedTitle>
+<citedWork>JOURNAL OF THE AMERICAN CHEMICAL SOCIETY</citedWork>
+<doi>10.1021/jacs.8b10866</doi>
+</reference>
+<reference occurenceOrder="18">
+<uid>WOS:000367636600003</uid>
+<citedAuthor>Dong, J</citedAuthor>
+<year>2015</year>
+<page>15988</page>
+<volume>137</volume>
+<citedTitle>Ultrastrong Alkali-Resisting Lanthanide-Zeolites Assembled by [Ln(60)] Nanocages</citedTitle>
+<citedWork>JOURNAL OF THE AMERICAN CHEMICAL SOCIETY</citedWork>
+<doi>10.1021/jacs.5b10000</doi>
+</reference>
+<reference occurenceOrder="23">
+<uid>WOS:000579400400038</uid>
+<citedAuthor>Ribo, EG</citedAuthor>
+<year>2020</year>
+<page>17508</page>
+<volume>142</volume>
+<citedTitle>Synthesis, Assembly, and Sizing of Neutral, Lanthanide Substituted Molybdenum Blue Wheels {Mo(90)Ln(10)}</citedTitle>
+<citedWork>JOURNAL OF THE AMERICAN CHEMICAL SOCIETY</citedWork>
+<doi>10.1021/jacs.0c07146</doi>
+</reference>
+<reference occurenceOrder="4">
+<uid>WOS:A1980KL03100039</uid>
+<citedAuthor>KATO, R</citedAuthor>
+<year>1980</year>
+<page>6571</page>
+<volume>102</volume>
+<citedTitle>1-14 HETEROPOLYVANADATE OF PHOSPHORUS - PREPARATION AND STRUCTURE</citedTitle>
+<citedWork>JOURNAL OF THE AMERICAN CHEMICAL SOCIETY</citedWork>
+</reference>
+<reference occurenceOrder="34">
+<uid>WOS:000547975900036</uid>
+<citedAuthor>Zheng, XL</citedAuthor>
+<year>2020</year>
+<page>14225</page>
+<volume>22</volume>
+<citedTitle>Two-dimensional two-photon absorptions and third-order nonlinear optical properties ofI(h)fullerenes and fullerene onions</citedTitle>
+<citedWork>PHYSICAL CHEMISTRY CHEMICAL PHYSICS</citedWork>
+<doi>10.1039/d0cp01996h</doi>
+</reference>
+<reference occurenceOrder="2">
+<uid>WOS:000071941000009</uid>
+<citedAuthor>Muller, A</citedAuthor>
+<year>1998</year>
+<page>239</page>
+<volume>98</volume>
+<citedTitle>Polyoxometalates: Very large clusters - Nanoscale magnets</citedTitle>
+<citedWork>CHEMICAL REVIEWS</citedWork>
+</reference>
+<reference occurenceOrder="19">
+<uid>WOS:000691789500042</uid>
+<citedAuthor>Su, YM</citedAuthor>
+<year>2021</year>
+<page>13235</page>
+<volume>143</volume>
+<citedTitle>Keplerate Ag-192 Cluster with 6 Silver and 14 Chalcogenide Octahedral and Tetrahedral Shells</citedTitle>
+<citedWork>JOURNAL OF THE AMERICAN CHEMICAL SOCIETY</citedWork>
+<doi>10.1021/jacs.1c05664</doi>
+</reference>
+<reference occurenceOrder="10">
+<uid>WOS:000669407200001</uid>
+<citedAuthor>Dey, C</citedAuthor>
+<year>2022</year>
+<page>1839</page>
+<volume>33</volume>
+<citedTitle>Polyoxometalate Clusters: Inorganic Ligands for Functional Materials</citedTitle>
+<citedWork>JOURNAL OF CLUSTER SCIENCE</citedWork>
+<doi>10.1007/s10876-021-02110-8</doi>
+</reference>
+<reference occurenceOrder="27">
+<uid>WOS:000652932400003</uid>
+<citedAuthor>Wang, HY</citedAuthor>
+<year>2021</year>
+<page>959</page>
+<volume>64</volume>
+<citedTitle>Enhanced proton conductivity of Mo-154-based porous inorganic framework</citedTitle>
+<citedWork>SCIENCE CHINA-CHEMISTRY</citedWork>
+<doi>10.1007/s11426-021-9986-1</doi>
+</reference>
+<reference occurenceOrder="7">
+<uid>000885944600004.7</uid>
+<citedAuthor>Berzelius, J.J.</citedAuthor>
+<year>1826</year>
+<page>369</page>
+<volume>82</volume>
+<citedTitle>Beitrag zur naheren Kenntniss des Molybdans, the preparation of the phosphomolybdate ion [PMo12O]3</citedTitle>
+<citedWork>Ann. Phys.</citedWork>
+</reference>
+<reference occurenceOrder="6">
+<uid>WOS:000736097200001</uid>
+<citedAuthor>Zhu, ZK</citedAuthor>
+<year>2022</year>
+<page>ARTN e202113381</page>
+<volume>61</volume>
+<citedTitle>Two Giant Calixarene-Like Polyoxoniobate Nanocups {Cu12Nb120} and {Cd16Nb128} Built from Mixed Macrocyclic Cluster Motifs</citedTitle>
+<citedWork>ANGEWANDTE CHEMIE-INTERNATIONAL EDITION</citedWork>
+<doi>10.1002/anie.202113381</doi>
+</reference>
+<reference occurenceOrder="17">
+<uid>WOS:000759419200001</uid>
+<citedAuthor>Du, MH</citedAuthor>
+<year>2022</year>
+<page>ARTN e202200537</page>
+<volume>61</volume>
+<citedTitle>Hierarchical Assembly of Coordination Macromolecules with Atypical Geometries: Gd44Co28 Crown and Gd95Co60 Cage</citedTitle>
+<citedWork>ANGEWANDTE CHEMIE-INTERNATIONAL EDITION</citedWork>
+<doi>10.1002/anie.202200537</doi>
+</reference>
+<reference occurenceOrder="29">
+<uid>WOS:000286729300018</uid>
+<citedAuthor>Wang, F</citedAuthor>
+<year>2011</year>
+<page>450</page>
+<volume>50</volume>
+<citedTitle>Hybrid Zeolitic Imidazolate Frameworks with Catalytically Active TO4 Building Blocks</citedTitle>
+<citedWork>ANGEWANDTE CHEMIE-INTERNATIONAL EDITION</citedWork>
+<doi>10.1002/anie.201005917</doi>
+</reference>
+<reference occurenceOrder="33">
+<uid>WOS:000840866300001</uid>
+<citedAuthor>Jiang, XM</citedAuthor>
+<year>2022</year>
+<page>ARTN nwac017</page>
+<volume>9</volume>
+<citedTitle>Material research from the viewpoint of functional motifs</citedTitle>
+<citedWork>NATIONAL SCIENCE REVIEW</citedWork>
+<doi>10.1093/nsr/nwac017</doi>
+</reference>
+<reference occurenceOrder="15">
+<uid>WOS:000565803300007</uid>
+<citedAuthor>Liu, JH</citedAuthor>
+<year>2020</year>
+<page>10305</page>
+<volume>56</volume>
+<citedTitle>All-inorganic open frameworks based on gigantic four-shellLn@W-8@Ln(8)@(SiW12)(6)clusters</citedTitle>
+<citedWork>CHEMICAL COMMUNICATIONS</citedWork>
+<doi>10.1039/d0cc04070c</doi>
+</reference>
+<reference occurenceOrder="5">
+<uid>WOS:000347232200009</uid>
+<citedAuthor>Son, JH</citedAuthor>
+<year>2015</year>
+<page>1436</page>
+<volume>51</volume>
+<citedTitle>Reversible capping/uncapping of phosphorous-centered Keggin-type polyoxoniobate clusters</citedTitle>
+<citedWork>CHEMICAL COMMUNICATIONS</citedWork>
+<doi>10.1039/c4cc05689b</doi>
+</reference>
+<reference occurenceOrder="1">
+<uid>WOS:000188272800476</uid>
+<citedAuthor>Keggin, JF</citedAuthor>
+<year>1933</year>
+<page>908</page>
+<volume>131</volume>
+<citedTitle>Electron polarisation</citedTitle>
+<citedWork>NATURE</citedWork>
+</reference>
+<reference occurenceOrder="31">
+<uid>WOS:A1989AK37400001</uid>
+<citedAuthor>LU, YC</citedAuthor>
+<year>1989</year>
+<page>927</page>
+<volume>29</volume>
+<citedTitle>AN XPS STUDY OF THE PASSIVE AND TRANSPASSIVE BEHAVIOR OF MOLYBDENUM IN DEAERATED 0.1-M HCL</citedTitle>
+<citedWork>CORROSION SCIENCE</citedWork>
+</reference>
+<reference occurenceOrder="12">
+<uid>WOS:000448044300005</uid>
+<citedAuthor>Wang, Z</citedAuthor>
+<year>2018</year>
+<page>ARTN 4407</page>
+<volume>9</volume>
+<citedTitle>Deciphering synergetic core-shell transformation from [Mo6O22@Ag-44] to [Mo8O28@Ag-50]</citedTitle>
+<citedWork>NATURE COMMUNICATIONS</citedWork>
+<doi>10.1038/s41467-018-06755-4</doi>
+</reference>
+</references>
+<addresses count="2">
+<address_name>
+<address_spec addr_no="1">
+<full_address>Chinese Acad Sci, Fujian Inst Res Struct Matter, State Key Lab Struct Chem, Fuzhou 350002, Fujian, Peoples R China</full_address>
+<organizations count="3">
+<organization>Chinese Acad Sci</organization>
+<organization pref="Y">Chinese Academy of Sciences</organization>
+<organization pref="Y">Fujian Institute of Research on the Structure of Matter, CAS</organization>
+</organizations>
+<suborganizations count="2">
+<suborganization>Fujian Inst Res Struct Matter</suborganization>
+<suborganization>State Key Lab Struct Chem</suborganization>
+</suborganizations>
+<city>Fuzhou</city>
+<state>Fujian</state>
+<country>Peoples R China</country>
+<zip location="AC">350002</zip>
+</address_spec>
+<names count="3">
+<name seq_no="1" role="author" addr_no="1" r_id="HGI-6862-2022">
+<display_name>Zhou, Xi -Yuan</display_name>
+<full_name>Zhou, Xi -Yuan</full_name>
+<wos_standard>Zhou, XY</wos_standard>
+<first_name>Xi -Yuan</first_name>
+<last_name>Zhou</last_name>
+</name>
+<name seq_no="2" role="author" reprint="Y" addr_no="1" r_id="FYQ-0934-2022">
+<display_name>Wang, Fei</display_name>
+<full_name>Wang, Fei</full_name>
+<wos_standard>Wang, F</wos_standard>
+<first_name>Fei</first_name>
+<last_name>Wang</last_name>
+<email_addr>wangfei04@fjirsm.ac.cn</email_addr>
+</name>
+<name seq_no="3" role="author" reprint="Y" addr_no="1" r_id="HEV-5756-2022">
+<display_name>Zhang, Jian</display_name>
+<full_name>Zhang, Jian</full_name>
+<wos_standard>Zhang, J</wos_standard>
+<first_name>Jian</first_name>
+<last_name>Zhang</last_name>
+<email_addr>zhj@fjirsm.ac.cn</email_addr>
+</name>
+</names>
+</address_name>
+<address_name>
+<address_spec addr_no="2">
+<full_address>Univ Chinese Acad Sci, Beijing 100049, Peoples R China</full_address>
+<organizations count="3">
+<organization>Univ Chinese Acad Sci</organization>
+<organization pref="Y">Chinese Academy of Sciences</organization>
+<organization pref="Y">University of Chinese Academy of Sciences, CAS</organization>
+</organizations>
+<city>Beijing</city>
+<country>Peoples R China</country>
+<zip location="AC">100049</zip>
+</address_spec>
+<names count="1">
+<name seq_no="1" role="author" addr_no="2" r_id="HGI-6862-2022">
+<display_name>Zhou, Xi -Yuan</display_name>
+<full_name>Zhou, Xi -Yuan</full_name>
+<wos_standard>Zhou, XY</wos_standard>
+<first_name>Xi -Yuan</first_name>
+<last_name>Zhou</last_name>
+</name>
+</names>
+</address_name>
+</addresses>
+<reprint_addresses count="1">
+<address_name>
+<address_spec addr_no="1">
+<full_address>Chinese Acad Sci, Fujian Inst Res Struct Matter, State Key Lab Struct Chem, Fuzhou 350002, Fujian, Peoples R China</full_address>
+<organizations count="3">
+<organization>Chinese Acad Sci</organization>
+<organization pref="Y">Chinese Academy of Sciences</organization>
+<organization pref="Y">Fujian Institute of Research on the Structure of Matter, CAS</organization>
+</organizations>
+<suborganizations count="2">
+<suborganization>Fujian Inst Res Struct Matter</suborganization>
+<suborganization>State Key Lab Struct Chem</suborganization>
+</suborganizations>
+<city>Fuzhou</city>
+<state>Fujian</state>
+<country>Peoples R China</country>
+<zip location="AC">350002</zip>
+</address_spec>
+<names count="2">
+<name seq_no="1" role="author" reprint="Y" addr_no="1">
+<display_name>Wang, Fei</display_name>
+<full_name>Wang, Fei</full_name>
+<wos_standard>Wang, F</wos_standard>
+<first_name>Fei</first_name>
+<last_name>Wang</last_name>
+<email_addr>wangfei04@fjirsm.ac.cn</email_addr>
+</name>
+<name seq_no="2" role="author" reprint="Y" addr_no="1">
+<display_name>Zhang, Jian</display_name>
+<full_name>Zhang, Jian</full_name>
+<wos_standard>Zhang, J</wos_standard>
+<first_name>Jian</first_name>
+<last_name>Zhang</last_name>
+</name>
+</names>
+</address_name>
+</reprint_addresses>
+<category_info>
+<headings count="1">
+<heading>Science &amp; Technology</heading>
+</headings>
+<subheadings count="1">
+<subheading>Physical Sciences</subheading>
+</subheadings>
+<subjects count="3">
+<subject ascatype="traditional">Chemistry, Inorganic &amp; Nuclear</subject>
+<subject ascatype="traditional">Chemistry, Physical</subject>
+<subject ascatype="extended">Chemistry</subject>
+</subjects>
+</category_info>
+<fund_ack>
+<fund_text>
+<p>Acknowledgments We thank for the financial support by NSFC (21971241, 21861014) .</p>
+</fund_text>
+<grants count="3">
+<grant>
+<grant_agency>NSFC</grant_agency>
+<grant_agency pref="Y">National Natural Science Foundation of China (NSFC)</grant_agency>
+</grant>
+<grant>
+<grant_ids count="1">
+<grant_id>21971241</grant_id>
+</grant_ids>
+</grant>
+<grant>
+<grant_ids count="1">
+<grant_id>21861014</grant_id>
+</grant_ids>
+</grant>
+</grants>
+</fund_ack>
+<keywords count="3">
+<keyword>Polyoxometalates</keyword>
+<keyword>Keggin POM</keyword>
+<keyword>Third order nonlinear optical (NLO) properties</keyword>
+</keywords>
+<abstracts count="1">
+<abstract>
+<abstract_text count="1">
+<p>Presented here are a series of new polyoxometalates (POMs) containing Mo4O4 core. Thanks to the large Mo4O4 cubane template, the new cluster exhibits the same Td symmetry as classic Keggin POM but higher nuclear number and more heterometal atoms. Moreover, the third order nonlinear optical (NLO) properties of them are also researched.</p>
+</abstract_text>
+</abstract>
+</abstracts>
+</fullrecord_metadata>
+<item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="itemType_wos">
+<ids avail="N">6I2FL</ids>
+<bib_id>317: - Part A JAN 2023</bib_id>
+<bib_pagecount type="Journal">60</bib_pagecount>
+<keywords_plus count="3">
+<keyword>CLUSTERS</keyword>
+<keyword>MOLYBDENUM</keyword>
+<keyword>FRAMEWORKS</keyword>
+</keywords_plus>
+</item>
+</static_data>
+<dynamic_data>
+<cluster_related>
+<identifiers>
+<identifier type="accession_no" value="6I2FL"/>
+<identifier type="issn" value="0022-4596"/>
+<identifier type="eissn" value="1095-726X"/>
+<identifier type="art_no" value="ARTN 123647"/>
+<identifier type="doi" value="10.1016/j.jssc.2022.123647"/>
+</identifiers>
+</cluster_related>
+<ic_related>
+<oases count="1" is_OA="Yes">
+<oas type="bronze"/>
+</oases>
+</ic_related>
+</dynamic_data>
+</REC>
+
+
+<REC r_id_disclaimer="ResearcherID data provided by Clarivate Analytics">
+<UID>WOS:000863429400003</UID>
+<static_data>
+<summary>
+<EWUID>
+<WUID coll_id="WOS"/>
+<edition value="WOS.SCI"/>
+</EWUID>
+<pub_info sortdate="2023-01-15" pubyear="2023" has_abstract="Y" coverdate="JAN 15 2023" pubmonth="JAN 15" vol="452" part_no="1" pubtype="Journal">
+<page page_count="11"/>
+</pub_info>
+<titles count="6">
+<title type="source">CHEMICAL ENGINEERING JOURNAL</title>
+<title type="source_abbrev">CHEM ENG J</title>
+<title type="abbrev_iso">Chem. Eng. J.</title>
+<title type="abbrev_11">CHEM ENGN J</title>
+<title type="abbrev_29">CHEM ENG J</title>
+<title type="item">Multilevel structure carbon aerogels with 99.999 % electromagnetic wave absorptivity at 1.8 mm and efficient thermal stealth</title>
+</titles>
+<names count="6">
+<name seq_no="1" role="author" addr_no="1">
+<display_name>Chen, Xinting</display_name>
+<full_name>Chen, Xinting</full_name>
+<wos_standard>Chen, XT</wos_standard>
+<first_name>Xinting</first_name>
+<last_name>Chen</last_name>
+</name>
+<name seq_no="2" role="author" addr_no="2">
+<display_name>Wang, Zhide</display_name>
+<full_name>Wang, Zhide</full_name>
+<wos_standard>Wang, ZD</wos_standard>
+<first_name>Zhide</first_name>
+<last_name>Wang</last_name>
+</name>
+<name seq_no="3" role="author" addr_no="1">
+<display_name>Zhou, Ming</display_name>
+<full_name>Zhou, Ming</full_name>
+<wos_standard>Ming, Z</wos_standard>
+<first_name>Ming</first_name>
+<last_name>Zhou</last_name>
+</name>
+<name seq_no="4" role="author" addr_no="1">
+<display_name>Zhao, Yue</display_name>
+<full_name>Zhao, Yue</full_name>
+<wos_standard>Yue, Z</wos_standard>
+<first_name>Yue</first_name>
+<last_name>Zhao</last_name>
+</name>
+<name seq_no="5" role="author" addr_no="3">
+<display_name>Tang, Shaolong</display_name>
+<full_name>Tang, Shaolong</full_name>
+<wos_standard>Tang, SL</wos_standard>
+<first_name>Shaolong</first_name>
+<last_name>Tang</last_name>
+</name>
+<name seq_no="6" role="author" reprint="Y" addr_no="1 4">
+<display_name>Ji, Guangbin</display_name>
+<full_name>Ji, Guangbin</full_name>
+<wos_standard>Ji, GB</wos_standard>
+<first_name>Guangbin</first_name>
+<last_name>Ji</last_name>
+<email_addr>gbji@nuaa.edu.cn</email_addr>
+</name>
+</names>
+<doctypes count="1">
+<doctype>Article</doctype>
+</doctypes>
+<publishers>
+<publisher>
+<address_spec addr_no="1">
+<full_address>PO BOX 564, 1001 LAUSANNE, SWITZERLAND</full_address>
+<city>LAUSANNE</city>
+</address_spec>
+<names count="1">
+<name role="publisher" seq_no="1" addr_no="1">
+<display_name>ELSEVIER SCIENCE SA</display_name>
+<full_name>ELSEVIER SCIENCE SA</full_name>
+<unified_name>Elsevier</unified_name>
+</name>
+</names>
+</publisher>
+</publishers>
+</summary>
+<fullrecord_metadata>
+<languages count="1">
+<language type="primary">English</language>
+</languages>
+<normalized_languages count="1">
+<language type="primary">English</language>
+</normalized_languages>
+<normalized_doctypes count="1">
+<doctype>Article</doctype>
+</normalized_doctypes>
+<references count="77">
+<reference occurenceOrder="3">
+<uid>WOS:000793407900003</uid>
+<citedAuthor>Liu, Y</citedAuthor>
+<year>2022</year>
+<page>ARTN 109800</page>
+<volume>235</volume>
+<citedTitle>Facile manufacturing of Ni/MnO nanoparticle embedded carbon nanocomposite fibers for electromagnetic wave absorption</citedTitle>
+<citedWork>COMPOSITES PART B-ENGINEERING</citedWork>
+<doi>10.1016/j.compositesb.2022.109800</doi>
+</reference>
+<reference occurenceOrder="2">
+<uid>WOS:000815578300001</uid>
+<citedAuthor>Zhao, Y</citedAuthor>
+<year>2022</year>
+<page>2936</page>
+<volume>65</volume>
+<citedTitle>Multi-spectrum bands compatibility: New trends in stealth materials research</citedTitle>
+<citedWork>SCIENCE CHINA-MATERIALS</citedWork>
+<doi>10.1007/s40843-022-2074-5</doi>
+</reference>
+<reference occurenceOrder="9">
+<uid>WOS:000478575100058</uid>
+<citedAuthor>Guo, TC</citedAuthor>
+<year>2019</year>
+<page>503</page>
+<volume>804</volume>
+<citedTitle>Controllable synthesis of ZnO with different morphologies and their morphology-dependent infrared emissivity in high temperature conditions</citedTitle>
+<citedWork>JOURNAL OF ALLOYS AND COMPOUNDS</citedWork>
+<doi>10.1016/j.jallcom.2019.07.011</doi>
+</reference>
+<reference occurenceOrder="57">
+<uid>WOS:000722810900008</uid>
+<citedAuthor>Wang, F</citedAuthor>
+<year>2022</year>
+<page>3720</page>
+<volume>15</volume>
+<citedTitle>The point defect and electronic structure of K doped LaCo0.9Fe0.1O3 perovskite with enhanced microwave absorbing ability</citedTitle>
+<citedWork>NANO RESEARCH</citedWork>
+<doi>10.1007/s12274-021-3955-1</doi>
+</reference>
+<reference occurenceOrder="51">
+<uid>WOS:000810915800002</uid>
+<citedAuthor>Cheng, RR</citedAuthor>
+<year>2022</year>
+<page>15</page>
+<volume>129</volume>
+<citedTitle>Heterostructure design of MOFs derived Co9S8/FeCoS2/C composite with efficient microwave absorption and waterproof functions</citedTitle>
+<citedWork>JOURNAL OF MATERIALS SCIENCE &amp; TECHNOLOGY</citedWork>
+<doi>10.1016/j.jmst.2022.04.031</doi>
+</reference>
+<reference occurenceOrder="41">
+<uid>WOS:000282223700005</uid>
+<citedAuthor>Kaniyoor, A</citedAuthor>
+<year>2010</year>
+<page>8467</page>
+<volume>20</volume>
+<citedTitle>Graphene synthesis via hydrogen induced low temperature exfoliation of graphite oxide</citedTitle>
+<citedWork>JOURNAL OF MATERIALS CHEMISTRY</citedWork>
+<doi>10.1039/c0jm01876g</doi>
+</reference>
+<reference occurenceOrder="73">
+<uid>000863429400003.73</uid>
+<citedAuthor>Long, N.</citedAuthor>
+<year>2021</year>
+<volume>154</volume>
+<citedTitle>Anisotropic electromagnetic wave absorption performance of polyimide/multi-walled carbon nanotubes composite aerogels with aligned slit-like channels structure</citedTitle>
+<citedWork>Compos. Part A Appl. Sci. Manuf</citedWork>
+</reference>
+<reference occurenceOrder="17">
+<uid>WOS:000684304800011</uid>
+<citedAuthor>Zhu, XJ</citedAuthor>
+<year>2021</year>
+<page>254</page>
+<volume>182</volume>
+<citedTitle>Morphology-controllable synthesis of polyurethane-derived highly cross-linked 3D networks for multifunctional and efficient electromagnetic wave absorption</citedTitle>
+<citedWork>CARBON</citedWork>
+<doi>10.1016/j.carbon.2021.06.028</doi>
+</reference>
+<reference occurenceOrder="70">
+<uid>WOS:000643678100002</uid>
+<citedAuthor>Sun, F</citedAuthor>
+<year>2021</year>
+<page>ARTN 128976</page>
+<volume>415</volume>
+<citedTitle>Attapulgite modulated thorny nickel nanowires/graphene aerogel with excellent electromagnetic wave absorption performance</citedTitle>
+<citedWork>CHEMICAL ENGINEERING JOURNAL</citedWork>
+<doi>10.1016/j.cej.2021.128976</doi>
+</reference>
+<reference occurenceOrder="4">
+<uid>WOS:000453512700016</uid>
+<citedAuthor>Peng, L</citedAuthor>
+<year>2018</year>
+<page>ARTN 1801006</page>
+<volume>6</volume>
+<citedTitle>A Multilayer Film Based Selective Thermal Emitter for Infrared Stealth Technology</citedTitle>
+<citedWork>ADVANCED OPTICAL MATERIALS</citedWork>
+<doi>10.1002/adom.201801006</doi>
+</reference>
+<reference occurenceOrder="40">
+<uid>WOS:000802226300011</uid>
+<citedAuthor>Zhang, X</citedAuthor>
+<year>2022</year>
+<page>257</page>
+<volume>194</volume>
+<citedTitle>MnCo-MOF-74 derived porous MnO/Co/C heterogeneous nanocomposites for high-efficiency electromagnetic wave absorption</citedTitle>
+<citedWork>CARBON</citedWork>
+<doi>10.1016/j.carbon.2022.04.001</doi>
+</reference>
+<reference occurenceOrder="34">
+<uid>WOS:000279046200009</uid>
+<citedAuthor>Tang, SC</citedAuthor>
+<year>2010</year>
+<page>5436</page>
+<volume>20</volume>
+<citedTitle>Controllable incorporation of Ag and Ag-Au nanoparticles in carbon spheres for tunable optical and catalytic properties</citedTitle>
+<citedWork>JOURNAL OF MATERIALS CHEMISTRY</citedWork>
+<doi>10.1039/c0jm00456a</doi>
+</reference>
+<reference occurenceOrder="7">
+<uid>WOS:000802828300002</uid>
+<citedAuthor>Wang, Y</citedAuthor>
+<year>2022</year>
+<page>625</page>
+<volume>191</volume>
+<citedTitle>Multi-dimensional C@NiCo-LDHs@Ni aerogel: Structural and componential engineering towards efficient microwave absorption, anti-corrosion and thermal-insulation</citedTitle>
+<citedWork>CARBON</citedWork>
+<doi>10.1016/j.carbon.2022.02.016</doi>
+</reference>
+<reference occurenceOrder="48">
+<uid>WOS:000201560100012</uid>
+<citedAuthor>Kapitza, PL</citedAuthor>
+<year>1941</year>
+<page>354</page>
+<volume>60</volume>
+<citedTitle>Heat transfer and superfluidity of helium II</citedTitle>
+<citedWork>PHYSICAL REVIEW</citedWork>
+</reference>
+<reference occurenceOrder="22">
+<uid>WOS:000750202600002</uid>
+<citedAuthor>Wang, JL</citedAuthor>
+<year>2022</year>
+<page>146</page>
+<volume>612</volume>
+<citedTitle>Enhanced interfacial polarization of biomass-derived porous carbon with a low radar cross-section</citedTitle>
+<citedWork>JOURNAL OF COLLOID AND INTERFACE SCIENCE</citedWork>
+<doi>10.1016/j.jcis.2021.12.162</doi>
+</reference>
+<reference occurenceOrder="25">
+<uid>WOS:000627067700022</uid>
+<citedAuthor>Bai, TT</citedAuthor>
+<year>2021</year>
+<page>5566</page>
+<volume>9</volume>
+<citedTitle>A resilient and lightweight bacterial cellulose-derived C/rGO aerogel-based electromagnetic wave absorber integrated with multiple functions</citedTitle>
+<citedWork>JOURNAL OF MATERIALS CHEMISTRY A</citedWork>
+<doi>10.1039/d0ta11122h</doi>
+</reference>
+<reference occurenceOrder="67">
+<uid>WOS:000400713300016</uid>
+<citedAuthor>Zhao, TK</citedAuthor>
+<year>2017</year>
+<page>115</page>
+<volume>708</volume>
+<citedTitle>Synthesis and electromagnetic wave absorption property of amorphous carbon nanotube networks on a 3D graphene aerogel/BaFe12O19 nanocomposite</citedTitle>
+<citedWork>JOURNAL OF ALLOYS AND COMPOUNDS</citedWork>
+<doi>10.1016/j.jallcom.2017.03.001</doi>
+</reference>
+<reference occurenceOrder="47">
+<uid>WOS:000789072200001</uid>
+<citedAuthor>Pan, D</citedAuthor>
+<year>2022</year>
+<page>ARTN 118</page>
+<volume>14</volume>
+<citedTitle>Vertically Aligned Silicon Carbide Nanowires/ Boron Nitride Cellulose Aerogel Networks Enhanced Thermal Conductivity and Electromagnetic Absorbing of Epoxy Composites</citedTitle>
+<citedWork>NANO-MICRO LETTERS</citedWork>
+<doi>10.1007/s40820-022-00863-z</doi>
+</reference>
+<reference occurenceOrder="74">
+<uid>WOS:000741898200001</uid>
+<citedAuthor>Guo, J</citedAuthor>
+<year>2022</year>
+<page>1769</page>
+<volume>5</volume>
+<citedTitle>Enhanced electromagnetic wave absorption of engineered epoxy nanocomposites with the assistance of polyaniline fillers</citedTitle>
+<citedWork>ADVANCED COMPOSITES AND HYBRID MATERIALS</citedWork>
+<doi>10.1007/s42114-022-00417-2</doi>
+</reference>
+<reference occurenceOrder="52">
+<uid>WOS:000805729300005</uid>
+<citedAuthor>Mu, ZG</citedAuthor>
+<year>2022</year>
+<page>7731</page>
+<volume>15</volume>
+<citedTitle>The dielectric behavior and efficient microwave absorption of doped nanoscale LaMnO3 at elevated temperature</citedTitle>
+<citedWork>NANO RESEARCH</citedWork>
+<doi>10.1007/s12274-022-4500-6</doi>
+</reference>
+<reference occurenceOrder="13">
+<uid>WOS:000810466800001</uid>
+<citedAuthor>Huang, QQ</citedAuthor>
+<year>2022</year>
+<page>ARTN 137279</page>
+<volume>446</volume>
+<citedTitle>A dual-band transceiver with excellent heat insulation property for microwave absorption and low infrared emissivity compatibility</citedTitle>
+<citedWork>CHEMICAL ENGINEERING JOURNAL</citedWork>
+<doi>10.1016/j.cej.2022.137279</doi>
+</reference>
+<reference occurenceOrder="24">
+<uid>WOS:000880460100001</uid>
+<citedAuthor>Yang, WJ</citedAuthor>
+<year>2022</year>
+<page>ARTN 109866</page>
+<volume>237</volume>
+<citedTitle>Fire-retarded nanocomposite aerogels for multifunctional applications: A review</citedTitle>
+<citedWork>COMPOSITES PART B-ENGINEERING</citedWork>
+<doi>10.1016/j.compositesb.2022.109866</doi>
+</reference>
+<reference occurenceOrder="75">
+<uid>WOS:000710084800001</uid>
+<citedAuthor>Sun, XX</citedAuthor>
+<year>2022</year>
+<page>ARTN 2107508</page>
+<volume>32</volume>
+<citedTitle>Achieving Super Broadband Electromagnetic Absorption by Optimizing Impedance Match of rGO Sponge Metamaterials</citedTitle>
+<citedWork>ADVANCED FUNCTIONAL MATERIALS</citedWork>
+<doi>10.1002/adfm.202107508</doi>
+</reference>
+<reference occurenceOrder="43">
+<uid>WOS:000812436900001</uid>
+<citedAuthor>Zheng, RX</citedAuthor>
+<year>2022</year>
+<page>27214</page>
+<volume>14</volume>
+<citedTitle>Fiber Templated Epitaxially Grown Composite Membranes: From Thermal Insulation to Infrared Stealth</citedTitle>
+<citedWork>ACS APPLIED MATERIALS &amp; INTERFACES</citedWork>
+<doi>10.1021/acsami.2c05906</doi>
+</reference>
+<reference occurenceOrder="50">
+<uid>WOS:000537415600053</uid>
+<citedAuthor>Xie, HY</citedAuthor>
+<year>2020</year>
+<page>9553</page>
+<volume>142</volume>
+<citedTitle>All-Inorganic Halide Perovskites as Potential Thermoelectric Materials: Dynamic Cation off-Centering Induces Ultralow Thermal Conductivity</citedTitle>
+<citedWork>JOURNAL OF THE AMERICAN CHEMICAL SOCIETY</citedWork>
+<doi>10.1021/jacs.0c03427</doi>
+</reference>
+<reference occurenceOrder="77">
+<uid>WOS:000637357900001</uid>
+<citedAuthor>Gu, WH</citedAuthor>
+<year>2021</year>
+<page>ARTN 102</page>
+<volume>13</volume>
+<citedTitle>Environmentally Friendly and Multifunctional Shaddock Peel-Based Carbon Aerogel for Thermal-Insulation and Microwave Absorption</citedTitle>
+<citedWork>NANO-MICRO LETTERS</citedWork>
+<doi>10.1007/s40820-021-00635-1</doi>
+</reference>
+<reference occurenceOrder="23">
+<uid>WOS:000671750100001</uid>
+<citedAuthor>Xu, J</citedAuthor>
+<year>2021</year>
+<page>ARTN 2102032</page>
+<volume>17</volume>
+<citedTitle>Lightweight, Fire-Retardant, and Anti-Compressed Honeycombed-Like Carbon Aerogels for Thermal Management and High-Efficiency Electromagnetic Absorbing Properties</citedTitle>
+<citedWork>SMALL</citedWork>
+<doi>10.1002/smll.202102032</doi>
+</reference>
+<reference occurenceOrder="30">
+<uid>WOS:000679681900013</uid>
+<citedAuthor>Feng, LL</citedAuthor>
+<year>2021</year>
+<page>1044</page>
+<volume>33</volume>
+<citedTitle>Infrared Stealth and Multi-Band Compatible Stealth Materials</citedTitle>
+<citedWork>PROGRESS IN CHEMISTRY</citedWork>
+<doi>10.7536/PC200947</doi>
+</reference>
+<reference occurenceOrder="63">
+<uid>WOS:000424726200033</uid>
+<citedAuthor>Yang, WY</citedAuthor>
+<year>2018</year>
+<page>331</page>
+<volume>145</volume>
+<citedTitle>Tunable magnetic and microwave absorption properties of Sm1.5Y0.5Fe17-xSix and their composites</citedTitle>
+<citedWork>ACTA MATERIALIA</citedWork>
+<doi>10.1016/j.actamat.2017.12.042</doi>
+</reference>
+<reference occurenceOrder="46">
+<uid>WOS:000430642100050</uid>
+<citedAuthor>Gunay, AA</citedAuthor>
+<year>2018</year>
+<page>12603</page>
+<volume>10</volume>
+<citedTitle>Optically Transparent Thermally Insulating Silica Aerogels for Solar Thermal Insulation</citedTitle>
+<citedWork>ACS APPLIED MATERIALS &amp; INTERFACES</citedWork>
+<doi>10.1021/acsami.7b18856</doi>
+</reference>
+<reference occurenceOrder="56">
+<uid>WOS:000412818600127</uid>
+<citedAuthor>Quan, B</citedAuthor>
+<year>2017</year>
+<page>1065</page>
+<volume>728</volume>
+<citedTitle>Dielectric polarization in electromagnetic wave absorption: Review and perspective</citedTitle>
+<citedWork>JOURNAL OF ALLOYS AND COMPOUNDS</citedWork>
+<doi>10.1016/j.jallcom.2017.09.082</doi>
+</reference>
+<reference occurenceOrder="10">
+<uid>WOS:000842336200001</uid>
+<citedAuthor>Guan, XM</citedAuthor>
+<year>2022</year>
+<page>ARTN 2200102</page>
+<volume>3</volume>
+<citedTitle>2D MXene Nanomaterials: Synthesis, Mechanism, and Multifunctional Applications in Microwave Absorption</citedTitle>
+<citedWork>SMALL STRUCTURES</citedWork>
+<doi>10.1002/sstr.202200102</doi>
+</reference>
+<reference occurenceOrder="72">
+<uid>WOS:000514195100040</uid>
+<citedAuthor>Xu, J</citedAuthor>
+<year>2020</year>
+<page>357</page>
+<volume>159</volume>
+<citedTitle>N-doped reduced graphene oxide aerogels containing pod-like N-doped carbon nanotubes and FeNi nanoparticles for electromagnetic wave absorption</citedTitle>
+<citedWork>CARBON</citedWork>
+<doi>10.1016/j.carbon.2019.12.020</doi>
+</reference>
+<reference occurenceOrder="59">
+<uid>WOS:000729226800001</uid>
+<citedAuthor>Zhang, XC</citedAuthor>
+<year>2022</year>
+<page>ARTN 27</page>
+<volume>14</volume>
+<citedTitle>Identification of the Intrinsic Dielectric Properties of Metal Single Atoms for Electromagnetic Wave Absorption</citedTitle>
+<citedWork>NANO-MICRO LETTERS</citedWork>
+<doi>10.1007/s40820-021-00773-6</doi>
+</reference>
+<reference occurenceOrder="39">
+<uid>WOS:000388775500009</uid>
+<citedAuthor>Yuan, GF</citedAuthor>
+<year>2016</year>
+<page>117</page>
+<volume>89</volume>
+<citedTitle>Chitosan films and coatings containing essential oils: The antioxidant and antimicrobial activity, and application in food systems</citedTitle>
+<citedWork>FOOD RESEARCH INTERNATIONAL</citedWork>
+<doi>10.1016/j.foodres.2016.10.004</doi>
+</reference>
+<reference occurenceOrder="65">
+<uid>WOS:000468364500064</uid>
+<citedAuthor>Miao, P</citedAuthor>
+<year>2019</year>
+<page>17706</page>
+<volume>11</volume>
+<citedTitle>Poly(dimethylsilylene)diacetylene-Guided ZIF-Based Heterostructures for Full Ku-Band Electromagnetic Wave Absorption</citedTitle>
+<citedWork>ACS APPLIED MATERIALS &amp; INTERFACES</citedWork>
+<doi>10.1021/acsami.9b03944</doi>
+</reference>
+<reference occurenceOrder="38">
+<uid>WOS:000773190200001</uid>
+<citedAuthor>Lee, N</citedAuthor>
+<year>2022</year>
+<page>ARTN 2200448</page>
+<volume>10</volume>
+<citedTitle>Flexible Assembled Metamaterials for Infrared and Microwave Camouflage</citedTitle>
+<citedWork>ADVANCED OPTICAL MATERIALS</citedWork>
+<doi>10.1002/adom.202200448</doi>
+</reference>
+<reference occurenceOrder="42">
+<uid>WOS:000744223700001</uid>
+<citedAuthor>Guan, XM</citedAuthor>
+<year>2022</year>
+<page>1</page>
+<volume>188</volume>
+<citedTitle>The controllable porous structure and s-doping of hollow carbon sphere synergistically act on the microwave attenuation</citedTitle>
+<citedWork>CARBON</citedWork>
+<doi>10.1016/j.carbon.2021.11.045</doi>
+</reference>
+<reference occurenceOrder="16">
+<uid>WOS:000736581500007</uid>
+<citedAuthor>Wu, KH</citedAuthor>
+<year>2022</year>
+<page>ARTN 115575</page>
+<volume>276</volume>
+<citedTitle>Infrared stealth and microwave absorption properties of reduced graphene oxide functionalized with Fe3O4</citedTitle>
+<citedWork>MATERIALS SCIENCE AND ENGINEERING B-ADVANCED FUNCTIONAL SOLID-STATE MATERIALS</citedWork>
+<doi>10.1016/j.mseb.2021.115575</doi>
+</reference>
+<reference occurenceOrder="11">
+<uid>WOS:000643941900067</uid>
+<citedAuthor>Yang, C</citedAuthor>
+<year>2021</year>
+<page>13610</page>
+<volume>29</volume>
+<citedTitle>Thermal infrared and broadband microwave stealth glass windows based on multi-band optimization</citedTitle>
+<citedWork>OPTICS EXPRESS</citedWork>
+<doi>10.1364/OE.424226</doi>
+</reference>
+<reference occurenceOrder="21">
+<uid>WOS:000726284100001</uid>
+<citedAuthor>Lou, ZC</citedAuthor>
+<year>2022</year>
+<page>ARTN 11</page>
+<volume>14</volume>
+<citedTitle>Biomass-Derived Carbon Heterostructures Enable Environmentally Adaptive Wideband Electromagnetic Wave Absorbers</citedTitle>
+<citedWork>NANO-MICRO LETTERS</citedWork>
+<doi>10.1007/s40820-021-00750-z</doi>
+</reference>
+<reference occurenceOrder="14">
+<uid>WOS:000819706300001</uid>
+<citedAuthor>Dai, B</citedAuthor>
+<year>2022</year>
+<page>704</page>
+<volume>5</volume>
+<citedTitle>Overview of MXene and conducting polymer matrix composites for electromagnetic wave absorption</citedTitle>
+<citedWork>ADVANCED COMPOSITES AND HYBRID MATERIALS</citedWork>
+<doi>10.1007/s42114-022-00510-6</doi>
+</reference>
+<reference occurenceOrder="29">
+<uid>WOS:000396184400101</uid>
+<citedAuthor>Ge, YL</citedAuthor>
+<year>2017</year>
+<page>880</page>
+<volume>309</volume>
+<citedTitle>The improved thermal radiation property of SiC doped microarc oxidation ceramic coating formed on niobium metal for metal thermal protective system</citedTitle>
+<citedWork>SURFACE &amp; COATINGS TECHNOLOGY</citedWork>
+<doi>10.1016/j.surfcoat.2016.10.070</doi>
+</reference>
+<reference occurenceOrder="32">
+<uid>WOS:000523561700095</uid>
+<citedAuthor>Cheng, Y</citedAuthor>
+<year>2020</year>
+<page>870</page>
+<volume>161</volume>
+<citedTitle>Structure-switchable mesoporous carbon hollow sphere framework toward sensitive microwave response</citedTitle>
+<citedWork>CARBON</citedWork>
+<doi>10.1016/j.carbon.2020.02.011</doi>
+</reference>
+<reference occurenceOrder="19">
+<uid>WOS:000707126000241</uid>
+<citedAuthor>Li, J</citedAuthor>
+<year>2021</year>
+<page>ARTN 131558</page>
+<volume>425</volume>
+<citedTitle>Recent progress in two-dimensional materials for microwave absorption applications</citedTitle>
+<citedWork>CHEMICAL ENGINEERING JOURNAL</citedWork>
+<doi>10.1016/j.cej.2021.131558</doi>
+</reference>
+<reference occurenceOrder="15">
+<uid>WOS:000472176900013</uid>
+<citedAuthor>Lu, SB</citedAuthor>
+<year>2019</year>
+<page>99</page>
+<volume>481</volume>
+<citedTitle>Great enhancement of electromagnetic wave absorption of MWCNTs@ carbonaceous CoO composites derived from MWCNTs-interconnected zeolitic imidazole framework</citedTitle>
+<citedWork>APPLIED SURFACE SCIENCE</citedWork>
+<doi>10.1016/j.apsusc.2019.03.018</doi>
+</reference>
+<reference occurenceOrder="71">
+<uid>WOS:000760412400001</uid>
+<citedAuthor>Cai, ZX</citedAuthor>
+<year>2022</year>
+<page>227</page>
+<volume>191</volume>
+<citedTitle>Hierarchically assembled carbon microtube@SiC nanowire/Ni nanoparticle aerogel for highly efficient electromagnetic wave absorption and multifunction</citedTitle>
+<citedWork>CARBON</citedWork>
+<doi>10.1016/j.carbon.2022.01.036</doi>
+</reference>
+<reference occurenceOrder="49">
+<uid>WOS:000450232800025</uid>
+<citedAuthor>Giri, A</citedAuthor>
+<year>2018</year>
+<page>ARTN 1804097</page>
+<volume>30</volume>
+<citedTitle>Interfacial Defect Vibrations Enhance Thermal Transport in Amorphous Multilayers with Ultrahigh Thermal Boundary Conductance</citedTitle>
+<citedWork>ADVANCED MATERIALS</citedWork>
+<doi>10.1002/adma.201804097</doi>
+</reference>
+<reference occurenceOrder="68">
+<uid>WOS:000496862800001</uid>
+<citedAuthor>Cheng, Y</citedAuthor>
+<year>2020</year>
+<page>ARTN 1900796</page>
+<volume>6</volume>
+<citedTitle>Lightweight and Flexible Cotton Aerogel Composites for Electromagnetic Absorption and Shielding Applications</citedTitle>
+<citedWork>ADVANCED ELECTRONIC MATERIALS</citedWork>
+<doi>10.1002/aelm.201900796</doi>
+</reference>
+<reference occurenceOrder="20">
+<uid>WOS:000803313700001</uid>
+<citedAuthor>Guo, SN</citedAuthor>
+<year>2022</year>
+<page>3244</page>
+<volume>9</volume>
+<citedTitle>The excellent electromagnetic wave absorbing properties of carbon fiber composites: the effect of metal content</citedTitle>
+<citedWork>INORGANIC CHEMISTRY FRONTIERS</citedWork>
+<doi>10.1039/d2qi00854h</doi>
+</reference>
+<reference occurenceOrder="44">
+<uid>WOS:000817939900003</uid>
+<citedAuthor>Zhou, YC</citedAuthor>
+<year>2022</year>
+<page>ARTN 137463</page>
+<volume>446</volume>
+<citedTitle>Flexible phase change hydrogels for mid-/low-temperature infrared stealth</citedTitle>
+<citedWork>CHEMICAL ENGINEERING JOURNAL</citedWork>
+<doi>10.1016/j.cej.2022.137463</doi>
+</reference>
+<reference occurenceOrder="76">
+<uid>WOS:000711685200004</uid>
+<citedAuthor>Huang, XG</citedAuthor>
+<year>2021</year>
+<page>ARTN 131894</page>
+<volume>426</volume>
+<citedTitle>Design of cellular structure of graphene aerogels for electromagnetic wave absorption</citedTitle>
+<citedWork>CHEMICAL ENGINEERING JOURNAL</citedWork>
+<doi>10.1016/j.cej.2021.131894</doi>
+</reference>
+<reference occurenceOrder="61">
+<uid>WOS:000417669300051</uid>
+<citedAuthor>Wang, HC</citedAuthor>
+<year>2017</year>
+<page>42102</page>
+<volume>9</volume>
+<citedTitle>Efficient and Lightweight Electromagnetic Wave Absorber Derived from Metal Organic Framework-Encapsulated Cobalt Nanoparticles</citedTitle>
+<citedWork>ACS APPLIED MATERIALS &amp; INTERFACES</citedWork>
+<doi>10.1021/acsami.7b13796</doi>
+</reference>
+<reference occurenceOrder="53">
+<uid>WOS:000475742900028</uid>
+<citedAuthor>Chen, JB</citedAuthor>
+<year>2019</year>
+<page>10145</page>
+<volume>48</volume>
+<citedTitle>Mesoporous carbon hollow spheres as a light weight microwave absorbing material showing modulating dielectric loss</citedTitle>
+<citedWork>DALTON TRANSACTIONS</citedWork>
+<doi>10.1039/c9dt01876j</doi>
+</reference>
+<reference occurenceOrder="31">
+<uid>WOS:000727804600001</uid>
+<citedAuthor>Dong, YN</citedAuthor>
+<year>2021</year>
+<page>ARTN 131272</page>
+<volume>426</volume>
+<citedTitle>Fire-retardant and thermal insulating honeycomb-like NiS2/SnS2 nanosheets @ 3D porous carbon hybrids for high-efficiency electromagnetic wave absorption</citedTitle>
+<citedWork>CHEMICAL ENGINEERING JOURNAL</citedWork>
+<doi>10.1016/j.cej.2021.131272</doi>
+</reference>
+<reference occurenceOrder="54">
+<uid>WOS:000773514800002</uid>
+<citedAuthor>Zhi, DD</citedAuthor>
+<year>2022</year>
+<page>ARTN 134496</page>
+<volume>433</volume>
+<citedTitle>Core-shell heterogeneous graphene-based aerogel microspheres for high-performance broadband microwave absorption via resonance loss and sequential attenuation</citedTitle>
+<citedWork>CHEMICAL ENGINEERING JOURNAL</citedWork>
+<doi>10.1016/j.cej.2022.134496</doi>
+</reference>
+<reference occurenceOrder="69">
+<uid>WOS:000424709600061</uid>
+<citedAuthor>Shu, RW</citedAuthor>
+<year>2018</year>
+<page>229</page>
+<volume>215</volume>
+<citedTitle>Synthesis and high-performance microwave absorption of reduced graphene oxide/zinc ferrite hybrid nanocomposite</citedTitle>
+<citedWork>MATERIALS LETTERS</citedWork>
+<doi>10.1016/j.matlet.2017.12.108</doi>
+</reference>
+<reference occurenceOrder="18">
+<uid>WOS:000760346100003</uid>
+<citedAuthor>Chen, XT</citedAuthor>
+<year>2022</year>
+<page>617</page>
+<volume>189</volume>
+<citedTitle>Research progress on nanostructure design and composition regulation of carbon spheres for the microwave absorption</citedTitle>
+<citedWork>CARBON</citedWork>
+<doi>10.1016/j.carbon.2021.12.100</doi>
+</reference>
+<reference occurenceOrder="33">
+<uid>WOS:000813816300001</uid>
+<citedAuthor>Chen, XT</citedAuthor>
+<year>2022</year>
+<page>5280</page>
+<volume>24</volume>
+<citedTitle>Morphology control of eco-friendly chitosan-derived carbon aerogels for efficient microwave absorption at thin thickness and thermal stealth</citedTitle>
+<citedWork>GREEN CHEMISTRY</citedWork>
+<doi>10.1039/d2gc01604d</doi>
+</reference>
+<reference occurenceOrder="62">
+<uid>WOS:000463843900065</uid>
+<citedAuthor>Wei, W</citedAuthor>
+<year>2019</year>
+<page>12752</page>
+<volume>11</volume>
+<citedTitle>Light-weight Gadolinium Hydroxide@polypyrrole Rare-Earth Nanocomposites with Tunable and Broadband Electromagnetic Wave Absorption</citedTitle>
+<citedWork>ACS APPLIED MATERIALS &amp; INTERFACES</citedWork>
+<doi>10.1021/acsami.8b21516</doi>
+</reference>
+<reference occurenceOrder="55">
+<uid>WOS:000435928600029</uid>
+<citedAuthor>Luo, CJ</citedAuthor>
+<year>2018</year>
+<page>ARTN 1701168</page>
+<volume>20</volume>
+<citedTitle>Excellent Electromagnetic Wave Absorption of Iron-Containing SiBCN Ceramics at 1158K High-Temperature</citedTitle>
+<citedWork>ADVANCED ENGINEERING MATERIALS</citedWork>
+<doi>10.1002/adem.201701168</doi>
+</reference>
+<reference occurenceOrder="60">
+<uid>WOS:000418533400015</uid>
+<citedAuthor>Liu, XF</citedAuthor>
+<year>2018</year>
+<page>153</page>
+<volume>334</volume>
+<citedTitle>Design of dual-frequency electromagnetic wave absorption by interface modulation strategy</citedTitle>
+<citedWork>CHEMICAL ENGINEERING JOURNAL</citedWork>
+<doi>10.1016/j.cej.2017.10.012</doi>
+</reference>
+<reference occurenceOrder="37">
+<uid>WOS:000407742600033</uid>
+<citedAuthor>Islam, S</citedAuthor>
+<year>2017</year>
+<page>854</page>
+<volume>25</volume>
+<citedTitle>Chitin and Chitosan: Structure, Properties and Applications in Biomedical Engineering</citedTitle>
+<citedWork>JOURNAL OF POLYMERS AND THE ENVIRONMENT</citedWork>
+<doi>10.1007/s10924-016-0865-5</doi>
+</reference>
+<reference occurenceOrder="28">
+<uid>000863429400003.28</uid>
+<citedAuthor>Ma, W.</citedAuthor>
+<year>2022</year>
+<page>30</page>
+<volume>14</volume>
+<citedTitle>MorphologyControlled Fabrication Strategy of Hollow Mesoporous Carbon Spheres@f-Fe2O3 for Microwave Absorption and Infrared Stealth</citedTitle>
+<citedWork>ACS Appl. Mater. Interfaces</citedWork>
+</reference>
+<reference occurenceOrder="6">
+<uid>WOS:000842159200002</uid>
+<citedAuthor>Wu, Y</citedAuthor>
+<year>2022</year>
+<page>ARTN 171</page>
+<volume>14</volume>
+<citedTitle>Ultrabroad Microwave Absorption Ability and Infrared Stealth Property of Nano-Micro CuS@rGO Lightweight Aerogels</citedTitle>
+<citedWork>NANO-MICRO LETTERS</citedWork>
+<doi>10.1007/s40820-022-00906-5</doi>
+</reference>
+<reference occurenceOrder="35">
+<uid>WOS:000339037200057</uid>
+<citedAuthor>Pan, KY</citedAuthor>
+<year>2014</year>
+<page>399</page>
+<volume>311</volume>
+<citedTitle>Studies on the photocatalysis of core-shelled SiO2-Ag nanospheres by controlled surface plasmon resonance under visible light</citedTitle>
+<citedWork>APPLIED SURFACE SCIENCE</citedWork>
+<doi>10.1016/j.apsusc.2014.05.074</doi>
+</reference>
+<reference occurenceOrder="26">
+<uid>WOS:000826831300001</uid>
+<citedAuthor>Mu, Y</citedAuthor>
+<year>2022</year>
+<page>2943</page>
+<volume>41</volume>
+<citedTitle>Ferrite-based composites and morphology-controlled absorbers</citedTitle>
+<citedWork>RARE METALS</citedWork>
+<doi>10.1007/s12598-022-02045-7</doi>
+</reference>
+<reference occurenceOrder="64">
+<uid>WOS:000805729300004</uid>
+<citedAuthor>Guo, Y</citedAuthor>
+<year>2022</year>
+<page>6841</page>
+<volume>15</volume>
+<citedTitle>Engineering hierarchical heterostructure material based on metal-organic frameworks and cotton fiber for high-efficient microwave absorber</citedTitle>
+<citedWork>NANO RESEARCH</citedWork>
+<doi>10.1007/s12274-022-4533-x</doi>
+</reference>
+<reference occurenceOrder="66">
+<uid>WOS:000655632900004</uid>
+<citedAuthor>Shu, RW</citedAuthor>
+<year>2021</year>
+<page>ARTN 108818</page>
+<volume>210</volume>
+<citedTitle>Synergistically assembled nitrogen-doped reduced graphene oxide/multi-walled carbon nanotubes composite aerogels with superior electromagnetic wave absorption performance</citedTitle>
+<citedWork>COMPOSITES SCIENCE AND TECHNOLOGY</citedWork>
+<doi>10.1016/j.compscitech.2021.108818</doi>
+</reference>
+<reference occurenceOrder="8">
+<uid>WOS:000412378500047</uid>
+<citedAuthor>Guo, TC</citedAuthor>
+<year>2017</year>
+<page>354</page>
+<volume>95</volume>
+<citedTitle>First-principle calculations and experimental investigation on the infrared emissivity property of Mg-doped ZnO</citedTitle>
+<citedWork>MATERIALS RESEARCH BULLETIN</citedWork>
+<doi>10.1016/j.materresbull.2017.08.011</doi>
+</reference>
+<reference occurenceOrder="45">
+<uid>WOS:000446283400021</uid>
+<citedAuthor>Fang, F</citedAuthor>
+<year>2018</year>
+<page>130</page>
+<volume>93</volume>
+<citedTitle>High performance electrospinning fiberous membranes for infrared stealth camouflage</citedTitle>
+<citedWork>INFRARED PHYSICS &amp; TECHNOLOGY</citedWork>
+<doi>10.1016/j.infrared.2018.07.021</doi>
+</reference>
+<reference occurenceOrder="5">
+<uid>WOS:000527331600126</uid>
+<citedAuthor>Gao, ST</citedAuthor>
+<year>2020</year>
+<page>ARTN 124149</page>
+<volume>387</volume>
+<citedTitle>Controlled reduction synthesis of yolk-shell magnetic@void@C for electromagnetic wave absorption</citedTitle>
+<citedWork>CHEMICAL ENGINEERING JOURNAL</citedWork>
+<doi>10.1016/j.cej.2020.124149</doi>
+</reference>
+<reference occurenceOrder="27">
+<uid>WOS:000842836600001</uid>
+<citedAuthor>Liang, HS</citedAuthor>
+<year>2022</year>
+<page>ARTN 2203620</page>
+<volume>18</volume>
+<citedTitle>Exploration of Twin-Modified Grain Boundary Engineering in Metallic Copper Predominated Electromagnetic Wave Absorber</citedTitle>
+<citedWork>SMALL</citedWork>
+<doi>10.1002/smll.202203620</doi>
+</reference>
+<reference occurenceOrder="58">
+<uid>WOS:000739268800001</uid>
+<citedAuthor>Xu, J</citedAuthor>
+<year>2022</year>
+<page>ARTN 011402</page>
+<volume>9</volume>
+<citedTitle>Atomically dispersed cobalt anchored on N-doped graphene aerogels for efficient electromagnetic wave absorption with an ultralow filler ratio</citedTitle>
+<citedWork>APPLIED PHYSICS REVIEWS</citedWork>
+<doi>10.1063/5.0067791</doi>
+</reference>
+<reference occurenceOrder="12">
+<uid>WOS:000760335400004</uid>
+<citedAuthor>Qiao, J</citedAuthor>
+<year>2022</year>
+<page>525</page>
+<volume>191</volume>
+<citedTitle>Facile synthesis of MnS nanoparticle embedded porous carbon nanocomposite fibers for broadband electromagnetic wave absorption</citedTitle>
+<citedWork>CARBON</citedWork>
+<doi>10.1016/j.carbon.2022.02.024</doi>
+</reference>
+<reference occurenceOrder="1">
+<uid>WOS:000460474200024</uid>
+<citedAuthor>Li, Y</citedAuthor>
+<year>2019</year>
+<page>ARTN 1807624</page>
+<volume>29</volume>
+<citedTitle>Multifunctional Organic-Inorganic Hybrid Aerogel for Self-Cleaning, Heat-Insulating, and Highly Efficient Microwave Absorbing Material</citedTitle>
+<citedWork>ADVANCED FUNCTIONAL MATERIALS</citedWork>
+<doi>10.1002/adfm.201807624</doi>
+</reference>
+<reference occurenceOrder="36">
+<uid>WOS:000537390100002</uid>
+<citedAuthor>Zhang, Z</citedAuthor>
+<year>2020</year>
+<page>ARTN 125190</page>
+<volume>395</volume>
+<citedTitle>Cellulose-chitosan framework/polyailine hybrid aerogel toward thermal insulation and microwave absorbing application</citedTitle>
+<citedWork>CHEMICAL ENGINEERING JOURNAL</citedWork>
+<doi>10.1016/j.cej.2020.125190</doi>
+</reference>
+</references>
+<addresses count="4">
+<address_name>
+<address_spec addr_no="1">
+<full_address>Nanjing Univ Aeronaut &amp; Astronaut, Coll Mat Sci &amp; Technol, Nanjing 210016, Peoples R China</full_address>
+<organizations count="2">
+<organization>Nanjing Univ Aeronaut &amp; Astronaut</organization>
+<organization pref="Y">Nanjing University of Aeronautics &amp; Astronautics</organization>
+</organizations>
+<suborganizations count="1">
+<suborganization>Coll Mat Sci &amp; Technol</suborganization>
+</suborganizations>
+<city>Nanjing</city>
+<country>Peoples R China</country>
+<zip location="AC">210016</zip>
+</address_spec>
+<names count="4">
+<name seq_no="1" role="author" addr_no="1" r_id="CJS-4526-2022">
+<display_name>Chen, Xinting</display_name>
+<full_name>Chen, Xinting</full_name>
+<wos_standard>Chen, XT</wos_standard>
+<first_name>Xinting</first_name>
+<last_name>Chen</last_name>
+</name>
+<name seq_no="3" role="author" addr_no="1" r_id="DHD-1275-2022">
+<display_name>Zhou, Ming</display_name>
+<full_name>Zhou, Ming</full_name>
+<wos_standard>Ming, Z</wos_standard>
+<first_name>Ming</first_name>
+<last_name>Zhou</last_name>
+</name>
+<name seq_no="4" role="author" addr_no="1" r_id="EIS-0976-2022">
+<display_name>Zhao, Yue</display_name>
+<full_name>Zhao, Yue</full_name>
+<wos_standard>Yue, Z</wos_standard>
+<first_name>Yue</first_name>
+<last_name>Zhao</last_name>
+</name>
+<name seq_no="6" role="author" reprint="Y" addr_no="1" r_id="FBD-4631-2022">
+<display_name>Ji, Guangbin</display_name>
+<full_name>Ji, Guangbin</full_name>
+<wos_standard>Ji, GB</wos_standard>
+<first_name>Guangbin</first_name>
+<last_name>Ji</last_name>
+<email_addr>gbji@nuaa.edu.cn</email_addr>
+</name>
+</names>
+</address_name>
+<address_name>
+<address_spec addr_no="2">
+<full_address>AECC Beijing Inst Aeronaut Mat, Aviat Key Lab Sci &amp; Technol Stealth Mat, Beijing 100095, Peoples R China</full_address>
+<organizations count="1">
+<organization>AECC Beijing Inst Aeronaut Mat</organization>
+</organizations>
+<suborganizations count="1">
+<suborganization>Aviat Key Lab Sci &amp; Technol Stealth Mat</suborganization>
+</suborganizations>
+<city>Beijing</city>
+<country>Peoples R China</country>
+<zip location="AC">100095</zip>
+</address_spec>
+<names count="1">
+<name seq_no="2" role="author" addr_no="2" r_id="GZG-0988-2022">
+<display_name>Wang, Zhide</display_name>
+<full_name>Wang, Zhide</full_name>
+<wos_standard>Wang, ZD</wos_standard>
+<first_name>Zhide</first_name>
+<last_name>Wang</last_name>
+</name>
+</names>
+</address_name>
+<address_name>
+<address_spec addr_no="3">
+<full_address>Nanjing Univ, Natl Lab Solid State Microstruct, Nanjing 210093, Peoples R China</full_address>
+<organizations count="2">
+<organization>Nanjing Univ</organization>
+<organization pref="Y">Nanjing University</organization>
+</organizations>
+<suborganizations count="1">
+<suborganization>Natl Lab Solid State Microstruct</suborganization>
+</suborganizations>
+<city>Nanjing</city>
+<country>Peoples R China</country>
+<zip location="AC">210093</zip>
+</address_spec>
+<names count="1">
+<name seq_no="5" role="author" addr_no="3" r_id="DSU-4955-2022">
+<display_name>Tang, Shaolong</display_name>
+<full_name>Tang, Shaolong</full_name>
+<wos_standard>Tang, SL</wos_standard>
+<first_name>Shaolong</first_name>
+<last_name>Tang</last_name>
+</name>
+</names>
+</address_name>
+<address_name>
+<address_spec addr_no="4">
+<full_address>29 Yudao St, Nanjing 210016, Peoples R China</full_address>
+<street>29 Yudao St</street>
+<city>Nanjing</city>
+<country>Peoples R China</country>
+<zip location="AC">210016</zip>
+</address_spec>
+<names count="1">
+<name seq_no="6" role="author" reprint="Y" addr_no="4" r_id="FBD-4631-2022">
+<display_name>Ji, Guangbin</display_name>
+<full_name>Ji, Guangbin</full_name>
+<wos_standard>Ji, GB</wos_standard>
+<first_name>Guangbin</first_name>
+<last_name>Ji</last_name>
+<email_addr>gbji@nuaa.edu.cn</email_addr>
+</name>
+</names>
+</address_name>
+</addresses>
+<reprint_addresses count="1">
+<address_name>
+<address_spec addr_no="1">
+<full_address>29 Yudao St, Nanjing 210016, Peoples R China</full_address>
+<street>29 Yudao St</street>
+<city>Nanjing</city>
+<country>Peoples R China</country>
+<zip location="AC">210016</zip>
+</address_spec>
+<names count="1">
+<name seq_no="1" role="author" reprint="Y" addr_no="1">
+<display_name>Ji, Guangbin</display_name>
+<full_name>Ji, Guangbin</full_name>
+<wos_standard>Ji, GB</wos_standard>
+<first_name>Guangbin</first_name>
+<last_name>Ji</last_name>
+<email_addr>gbji@nuaa.edu.cn</email_addr>
+</name>
+</names>
+</address_name>
+</reprint_addresses>
+<category_info>
+<headings count="1">
+<heading>Science &amp; Technology</heading>
+</headings>
+<subheadings count="1">
+<subheading>Technology</subheading>
+</subheadings>
+<subjects count="3">
+<subject ascatype="traditional">Engineering, Environmental</subject>
+<subject ascatype="traditional">Engineering, Chemical</subject>
+<subject ascatype="extended">Engineering</subject>
+</subjects>
+</category_info>
+<fund_ack>
+<fund_text>
+<p>Acknowledgements We are thankful for financial support from the National Nature Sci-ence Foundation of China (No.: 51971111) .</p>
+</fund_text>
+<grants count="2">
+<grant>
+<grant_agency>National Nature Sci-ence Foundation of China</grant_agency>
+<grant_agency pref="Y">National Natural Science Foundation of China (NSFC)</grant_agency>
+</grant>
+<grant>
+<grant_ids count="1">
+<grant_id>51971111</grant_id>
+</grant_ids>
+</grant>
+</grants>
+</fund_ack>
+<keywords count="6">
+<keyword>Electromagnetic wave absorption</keyword>
+<keyword>Ultra -wide bandwidth</keyword>
+<keyword>Carbon aerogel</keyword>
+<keyword>Polarization</keyword>
+<keyword>Thermal stealth</keyword>
+<keyword>Radar cross section</keyword>
+</keywords>
+<abstracts count="1">
+<abstract>
+<abstract_text count="1">
+<p>Given the complex practical environment and application fields, it is urgent to integrate various functions into one material. Based on the introduction of nano-sites, the creation of multilevel structures synergy, a light weight electromagnetic wave-infrared stealth compatible composite was prepared for the first time. In which the multi -contact sites and interfaces greatly limited the thermal conduction and enhanced the synergistic polarization. Moreover, the gold nanoparticles with low emissivity not only reduced the external thermal radiation, but also promoted the conduction loss. Optimized composites showed excellent thermal stealth and ultra-high electro-magnetic wave absorption (EMA) performance. The difference between the surface and the ambient background temperature was less than 5 degrees C when the target temperature was 120 degrees C, thus the detection distance of the infrared system to the target would be effectively reduced. The products provided a minimum reflection loss of-55.9 dB with a thickness of only 1.8 mm, and an ultra-wide effective absorption bandwidth of 16 GHz within 1-5 mm. Surprisingly, in the far-field condition, the minimum radar cross section value can achieve-49 dB m2. This work provides valuable insights for synthesizing functional materials with excellent EMA and thermal stealth properties.</p>
+</abstract_text>
+</abstract>
+</abstracts>
+</fullrecord_metadata>
+<item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="itemType_wos">
+<ids avail="N">5B2UF</ids>
+<bib_id>452: - Part 1 JAN 15 2023</bib_id>
+<bib_pagecount type="Journal">31</bib_pagecount>
+<keywords_plus count="6">
+<keyword>CONTROLLABLE SYNTHESIS</keyword>
+<keyword>MICROWAVE-ABSORPTION</keyword>
+<keyword>INFRARED EMISSIVITY</keyword>
+<keyword>FRAMEWORK</keyword>
+<keyword>NETWORKS</keyword>
+<keyword>PROPERTY</keyword>
+</keywords_plus>
+</item>
+<contributors count="2">
+<contributor>
+<name seq_no="1" role="researcher_id" orcid_id="0000-0001-5782-1588">
+<display_name>, Ji</display_name>
+<full_name>, Ji</full_name>
+<first_name>Ji</first_name>
+<last_name/>
+</name>
+</contributor>
+<contributor>
+<name seq_no="2" role="researcher_id" orcid_id="0000-0002-4911-1292">
+<display_name>Zhao, Yue</display_name>
+<full_name>Zhao, Yue</full_name>
+<first_name>Yue</first_name>
+<last_name>Zhao</last_name>
+</name>
+</contributor>
+</contributors>
+</static_data>
+<dynamic_data>
+<cluster_related>
+<identifiers>
+<identifier type="accession_no" value="5B2UF"/>
+<identifier type="issn" value="1385-8947"/>
+<identifier type="eissn" value="1873-3212"/>
+<identifier type="art_no" value="ARTN 139110"/>
+<identifier type="doi" value="10.1016/j.cej.2022.139110"/>
+</identifiers>
+</cluster_related>
+<citation_related>
+<citation_topics>
+<subj-group>
+<subject content-id="4" content-type="macro">Electrical Engineering, Electronics &amp; Computer Science</subject>
+<subject content-id="4.58" content-type="meso">Wireless Technology</subject>
+<subject content-id="4.58.1125" content-type="micro">Microwave Absorption</subject>
+</subj-group>
+</citation_topics>
+</citation_related>
+</dynamic_data>
+</REC>
+
+<REC r_id_disclaimer="ResearcherID data provided by Clarivate Analytics">
+<UID>WOS:000865936500030</UID>
+<static_data>
+<summary>
+<EWUID>
+<WUID coll_id="WOS"/>
+<edition value="WOS.ISTP"/>
+</EWUID>
+<pub_info sortdate="2023-01-01" pubyear="2023" has_abstract="Y" coverdate="2023" vol="913" pubtype="Book in series">
+<page begin="411" end="421" page_count="11">411-421</page>
+</pub_info>
+<titles count="7">
+<title type="source">PROCEEDINGS OF THE 2021 ASIA-PACIFIC INTERNATIONAL SYMPOSIUM ON AEROSPACE TECHNOLOGY (APISAT 2021), VOL 2</title>
+<title type="series">Lecture Notes in Electrical Engineering</title>
+<title type="source_abbrev">LECT NOTES ELECTR EN</title>
+<title type="abbrev_11">LEC NOT EL</title>
+<title type="abbrev_29">LECT NOT EL ENGR</title>
+<title type="item">Augmented Lagrange Based Particle Swarm Optimization for Missile Interception Guidance</title>
+<title type="book_series" translated="N">Lecture Notes in Electrical Engineering</title>
+</titles>
+<names count="7">
+<name seq_no="1" role="author" addr_no="1">
+<display_name>Liao, Jingxian</display_name>
+<full_name>Liao, Jingxian</full_name>
+<wos_standard>Liao, JX</wos_standard>
+<first_name>Jingxian</first_name>
+<last_name>Liao</last_name>
+</name>
+<name seq_no="2" role="author" reprint="Y" addr_no="1">
+<display_name>Bang, Hyochoong</display_name>
+<full_name>Bang, Hyochoong</full_name>
+<wos_standard>Bang, H</wos_standard>
+<first_name>Hyochoong</first_name>
+<last_name>Bang</last_name>
+<email_addr>hcbang@kaist.ac.kr</email_addr>
+</name>
+<name seq_no="3" role="book_editor">
+<display_name>Lee, S</display_name>
+<full_name>Lee, S</full_name>
+<wos_standard>Lee, S</wos_standard>
+<first_name>S</first_name>
+<last_name>Lee</last_name>
+</name>
+<name seq_no="4" role="book_editor">
+<display_name>Han, C</display_name>
+<full_name>Han, C</full_name>
+<wos_standard>Han, C</wos_standard>
+<first_name>C</first_name>
+<last_name>Han</last_name>
+</name>
+<name seq_no="5" role="book_editor">
+<display_name>Choi, JY</display_name>
+<full_name>Choi, JY</full_name>
+<wos_standard>Choi, JY</wos_standard>
+<first_name>JY</first_name>
+<last_name>Choi</last_name>
+</name>
+<name seq_no="6" role="book_editor">
+<display_name>Kim, S</display_name>
+<full_name>Kim, S</full_name>
+<wos_standard>Kim, S</wos_standard>
+<first_name>S</first_name>
+<last_name>Kim</last_name>
+</name>
+<name seq_no="7" role="book_editor">
+<display_name>Kim, JH</display_name>
+<full_name>Kim, JH</full_name>
+<wos_standard>Kim, JH</wos_standard>
+<first_name>JH</first_name>
+<last_name>Kim</last_name>
+</name>
+</names>
+<doctypes count="1">
+<doctype>Proceedings Paper</doctype>
+</doctypes>
+<conferences count="1">
+<conference conf_id="349924">
+<conf_infos count="1">
+<conf_info>Asia-Pacific International Symposium on Aerospace Technology (APISAT), NOV 15-17, 2021, Jeju, SOUTH KOREA</conf_info>
+</conf_infos>
+<conf_titles count="1">
+<conf_title>Asia-Pacific International Symposium on Aerospace Technology (APISAT)</conf_title>
+</conf_titles>
+<conf_dates count="1">
+<conf_date conf_start="20211115" conf_end="20211117">NOV 15-17, 2021</conf_date>
+</conf_dates>
+<conf_locations count="1">
+<conf_location>
+<conf_host>Korean Soc Aeronaut &amp; Space Sci</conf_host>
+<conf_city>Jeju</conf_city>
+<conf_state>SOUTH KOREA</conf_state>
+</conf_location>
+</conf_locations>
+</conference>
+</conferences>
+<publishers>
+<publisher>
+<address_spec addr_no="1">
+<full_address>152 BEACH ROAD, #21-01/04 GATEWAY EAST, SINGAPORE, 189721, SINGAPORE</full_address>
+<city>SINGAPORE</city>
+</address_spec>
+<names count="1">
+<name role="publisher" seq_no="1" addr_no="1">
+<display_name>SPRINGER-VERLAG SINGAPORE PTE LTD</display_name>
+<full_name>SPRINGER-VERLAG SINGAPORE PTE LTD</full_name>
+<unified_name>Springer Nature</unified_name>
+</name>
+</names>
+</publisher>
+</publishers>
+</summary>
+<fullrecord_metadata>
+<languages count="1">
+<language type="primary">English</language>
+</languages>
+<normalized_languages count="1">
+<language type="primary">English</language>
+</normalized_languages>
+<normalized_doctypes count="1">
+<doctype>Meeting</doctype>
+</normalized_doctypes>
+<references count="12">
+<reference occurenceOrder="12">
+<physicalSection physicalLocation="0.543464522" section="Introduction" function="background"/>
+<physicalSection physicalLocation="0.544785981" section="Introduction" function="discuss"/>
+<uid>WOS:000414585000005</uid>
+<citedAuthor>Kelly, M</citedAuthor>
+<year>2017</year>
+<page>849</page>
+<volume>59</volume>
+<citedTitle>An Introduction to Trajectory Optimization: How to Do Your Own Direct Collocation</citedTitle>
+<citedWork>SIAM REVIEW</citedWork>
+<doi>10.1137/16M1062569</doi>
+</reference>
+<reference occurenceOrder="10">
+<physicalSection physicalLocation="0.52640046" section="Introduction" function="background"/>
+<physicalSection physicalLocation="0.528871014" section="Introduction" function="background"/>
+<physicalSection physicalLocation="0.530422292" section="Introduction" function="background"/>
+<uid>WOS:000632238800001</uid>
+<citedAuthor>Chadli, O</citedAuthor>
+<year>2021</year>
+<page>1178</page>
+<volume>42</volume>
+<citedTitle>Augmented Lagrangian methods for optimal control problems governed by mixed quasi-equilibrium problems with applications</citedTitle>
+<citedWork>OPTIMAL CONTROL APPLICATIONS &amp; METHODS</citedWork>
+<doi>10.1002/oca.2722</doi>
+</reference>
+<reference occurenceOrder="8">
+<physicalSection physicalLocation="0.460327492" section="Introduction" function="background"/>
+<physicalSection physicalLocation="0.466475151" section="Introduction" function="basis"/>
+<uid>WOS:000418333500062</uid>
+<citedAuthor>Skinner, SN</citedAuthor>
+<year>2018</year>
+<page>933</page>
+<volume>62</volume>
+<citedTitle>State-of-the-art in aerodynamic shape optimisation methods</citedTitle>
+<citedWork>APPLIED SOFT COMPUTING</citedWork>
+<doi>10.1016/j.asoc.2017.09.030</doi>
+</reference>
+<reference occurenceOrder="1">
+<physicalSection physicalLocation="0.392358518" section="Introduction" function="background"/>
+<physicalSection physicalLocation="0.397471991" section="Introduction" function="background"/>
+<uid>WOS:000474733300039</uid>
+<citedAuthor>Khalid, HM</citedAuthor>
+<year>2019</year>
+<page>201</page>
+<citedTitle>Optimal Control of a Quadcopter: A Constrained Optimization Problem</citedTitle>
+<citedWork>PROCEEDINGS OF 2019 8TH INTERNATIONAL CONFERENCE ON INDUSTRIAL TECHNOLOGY AND MANAGEMENT (ICITM 2019)</citedWork>
+</reference>
+<reference occurenceOrder="2">
+<uid>000865936500030.2</uid>
+<citedAuthor>Tahk, M</citedAuthor>
+<year>2015</year>
+<page>217</page>
+<volume>19</volume>
+<citedTitle>A tutorial on linear quadratic optimal guidance for missile applications</citedTitle>
+<citedWork>J Korea Soc Ind Appl Math</citedWork>
+</reference>
+<reference occurenceOrder="11">
+<uid>000865936500030.11</uid>
+<citedAuthor>Jia, X</citedAuthor>
+<year>2021</year>
+<citedTitle>An Augmented Lagrangian Method for Optimization Problems with Structured Geometric Constraints</citedTitle>
+<citedWork>arXiv</citedWork>
+</reference>
+<reference occurenceOrder="3">
+<physicalSection physicalLocation="0.415685148" section="Introduction" function="background"/>
+<physicalSection physicalLocation="0.418672795" section="Introduction" function="background"/>
+<uid>WOS:000281963600004</uid>
+<citedAuthor>Palumbo, NF</citedAuthor>
+<year>2010</year>
+<page>42</page>
+<volume>29</volume>
+<citedTitle>Modern Homing Missile Guidance Theory and Techniques</citedTitle>
+<citedWork>JOHNS HOPKINS APL TECHNICAL DIGEST</citedWork>
+</reference>
+<reference occurenceOrder="4">
+<physicalSection physicalLocation="0.421258259" section="Introduction" function="background"/>
+<physicalSection physicalLocation="0.422866992" section="Introduction" function="background"/>
+<uid>WOS:000343924400012</uid>
+<citedAuthor>Maity, A</citedAuthor>
+<year>2014</year>
+<page>1897</page>
+<volume>37</volume>
+<citedTitle>Generalized Model Predictive Static Programming and Angle-Constrained Guidance of Air-to-Ground Missiles</citedTitle>
+<citedWork>JOURNAL OF GUIDANCE CONTROL AND DYNAMICS</citedWork>
+<doi>10.2514/1.G000038</doi>
+</reference>
+<reference occurenceOrder="5">
+<uid>000865936500030.5</uid>
+<citedAuthor>He, X</citedAuthor>
+<year>2014</year>
+<page>169</page>
+<volume>8</volume>
+<citedTitle>Particle swarm optimization-based augmented lagrangian algorithm for constrained optimization problems</citedTitle>
+<citedWork>J Softw Eng</citedWork>
+</reference>
+<reference occurenceOrder="6">
+<physicalSection physicalLocation="0.439126688" section="Introduction" function="background"/>
+<physicalSection physicalLocation="0.447170353" section="Introduction" function="background"/>
+<uid>WOS:000428121200007</uid>
+<citedAuthor>Zhang, M</citedAuthor>
+<year>2017</year>
+<page>312</page>
+<volume>58</volume>
+<citedTitle>Missile fixed-structure mu controller design based on constrained PSO algorithm</citedTitle>
+<citedWork>AUTOMATIKA</citedWork>
+<doi>10.1080/00051144.2018.1432332</doi>
+</reference>
+<reference occurenceOrder="7">
+<physicalSection physicalLocation="0.450560184" section="Introduction" function="background"/>
+<physicalSection physicalLocation="0.454582017" section="Introduction" function="background"/>
+<uid>WOS:000280501900030</uid>
+<citedAuthor>Rao, AV</citedAuthor>
+<year>2010</year>
+<page>497</page>
+<volume>135</volume>
+<citedTitle>A SURVEY OF NUMERICAL METHODS FOR OPTIMAL CONTROL</citedTitle>
+<citedWork>ASTRODYNAMICS 2009, VOL 135, PTS 1-3</citedWork>
+</reference>
+<reference occurenceOrder="9">
+<physicalSection physicalLocation="0.51939098" section="Introduction" function="background"/>
+<physicalSection physicalLocation="0.523010629" section="Introduction" function="background"/>
+<uid>WOS:000239957600002</uid>
+<citedAuthor>Sedlaczek, K</citedAuthor>
+<year>2006</year>
+<page>277</page>
+<volume>32</volume>
+<citedTitle>Using augmented Lagrangian particle swarm optimization for constrained problems in engineering</citedTitle>
+<citedWork>STRUCTURAL AND MULTIDISCIPLINARY OPTIMIZATION</citedWork>
+<doi>10.1007/s00158-006-0032-z</doi>
+</reference>
+</references>
+<addresses count="1">
+<address_name>
+<address_spec addr_no="1">
+<full_address>Korea Adv Inst Sci &amp; Technol, Dept Aerosp Engn, Daejeon, South Korea</full_address>
+<organizations count="2">
+<organization>Korea Adv Inst Sci &amp; Technol</organization>
+<organization pref="Y">Korea Advanced Institute of Science &amp; Technology (KAIST)</organization>
+</organizations>
+<suborganizations count="1">
+<suborganization>Dept Aerosp Engn</suborganization>
+</suborganizations>
+<city>Daejeon</city>
+<country>South Korea</country>
+</address_spec>
+<names count="2">
+<name seq_no="1" role="author" addr_no="1" r_id="DXB-8572-2022">
+<display_name>Liao, Jingxian</display_name>
+<full_name>Liao, Jingxian</full_name>
+<wos_standard>Liao, JX</wos_standard>
+<first_name>Jingxian</first_name>
+<last_name>Liao</last_name>
+</name>
+<name seq_no="2" role="author" reprint="Y" addr_no="1" r_id="EMQ-2903-2022">
+<display_name>Bang, Hyochoong</display_name>
+<full_name>Bang, Hyochoong</full_name>
+<wos_standard>Bang, H</wos_standard>
+<first_name>Hyochoong</first_name>
+<last_name>Bang</last_name>
+<email_addr>hcbang@kaist.ac.kr</email_addr>
+</name>
+</names>
+</address_name>
+</addresses>
+<reprint_addresses count="1">
+<address_name>
+<address_spec addr_no="1">
+<full_address>Korea Adv Inst Sci &amp; Technol, Dept Aerosp Engn, Daejeon, South Korea</full_address>
+<organizations count="2">
+<organization>Korea Adv Inst Sci &amp; Technol</organization>
+<organization pref="Y">Korea Advanced Institute of Science &amp; Technology (KAIST)</organization>
+</organizations>
+<suborganizations count="1">
+<suborganization>Dept Aerosp Engn</suborganization>
+</suborganizations>
+<city>Daejeon</city>
+<country>South Korea</country>
+</address_spec>
+<names count="1">
+<name seq_no="1" role="author" reprint="Y" addr_no="1">
+<display_name>Bang, Hyochoong</display_name>
+<full_name>Bang, Hyochoong</full_name>
+<wos_standard>Bang, H</wos_standard>
+<first_name>Hyochoong</first_name>
+<last_name>Bang</last_name>
+<email_addr>hcbang@kaist.ac.kr</email_addr>
+</name>
+</names>
+</address_name>
+</reprint_addresses>
+<category_info>
+<headings count="1">
+<heading>Science &amp; Technology</heading>
+</headings>
+<subheadings count="1">
+<subheading>Technology</subheading>
+</subheadings>
+<subjects count="2">
+<subject ascatype="traditional">Engineering, Aerospace</subject>
+<subject ascatype="extended">Engineering</subject>
+</subjects>
+</category_info>
+<fund_ack/>
+<keywords count="4">
+<keyword>Constrained optimization problem</keyword>
+<keyword>Augmented Lagrange method</keyword>
+<keyword>Particle swarm optimization</keyword>
+<keyword>Missile interception guidance</keyword>
+</keywords>
+<abstracts count="1">
+<abstract>
+<abstract_text count="1">
+<p>By raising a practical problem in missile interception guidance with detailed system dynamic equations, along with several constraints on initial states and terminal states, the optimal control problem will be converted to a parameter optimization problem by using implicit integration Hermite-Simpson method, which approximates states and control using piecewise continuous polynomials to simplify the involved integration calculations, will be used to discretize the time domain with steps of duration. Furthermore, augmented Lagrangian method (ALM) will be introduced to convert constrained problem (i.e. primal problem) into unconstrained one (i.e. barrier problem) and penalty term will be added to cost function. Meanwhile, particle swarm optimization (PSO) will be applied to optimize the parameter vector, including system states, control inputs and Lagrangian multipliers, evaluating the cost function at each iteration during the simulation until reaching the minimum value of cost function, which also suggests that the particles are converged, and the parameter vector is optimized. The main contribution of the study is to propose a hybrid optimal solver for the constrained optimization problem, an augmented Lagrangian particle swarm optimization (ALPSO), and comparison results between the self-build ALPSO solver, MATLAB built-in fmincon function, and the theoretical ones, verifying the correctness of the self-build solver for constrained optimization problems with accuracy of 15.49 m maximum error during the whole one thousand meters of flight.</p>
+</abstract_text>
+</abstract>
+</abstracts>
+</fullrecord_metadata>
+<item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="itemType_wos">
+<ids avail="N">BT9YL</ids>
+<bib_id>913: 411-421 2023</bib_id>
+<bib_pagecount type="Book">1422</bib_pagecount>
+<book_pages>1422</book_pages>
+<book_notes count="3">
+<book_note>Figures</book_note>
+<book_note>Plates</book_note>
+<book_note>Color plates</book_note>
+</book_notes>
+<book_desc>
+<bk_binding>P</bk_binding>
+<bk_publisher>SPRINGER-VERLAG SINGAPORE PTE LTD, 152 BEACH ROAD, #21-01/04 GATEWAY EAST, SINGAPORE, 189721, SINGAPORE</bk_publisher>
+<bk_prepay>Y</bk_prepay>
+</book_desc>
+<book_desc>
+<bk_binding>H</bk_binding>
+<bk_publisher>SPRINGER-VERLAG SINGAPORE PTE LTD, 152 BEACH ROAD, #21-01/04 GATEWAY EAST, SINGAPORE, 189721, SINGAPORE</bk_publisher>
+<bk_prepay>Y</bk_prepay>
+</book_desc>
+</item>
+<contributors count="1">
+<contributor>
+<name seq_no="1" role="researcher_id" orcid_id="0000-0002-6148-9685">
+<display_name>Liao, Jingxian</display_name>
+<full_name>Liao, Jingxian</full_name>
+<first_name>Jingxian</first_name>
+<last_name>Liao</last_name>
+</name>
+</contributor>
+</contributors>
+</static_data>
+<dynamic_data>
+<cluster_related>
+<identifiers>
+<identifier type="accession_no" value="BT9YL"/>
+<identifier type="issn" value="1876-1100"/>
+<identifier type="eissn" value="1876-1119"/>
+<identifier type="eisbn" value="978-981-19-2635-8"/>
+<identifier type="isbn" value="978-981-19-2634-1"/>
+<identifier type="doi" value="10.1007/978-981-19-2635-8_30"/>
+</identifiers>
+</cluster_related>
+<citation_related>
+<citation_topics>
+<subj-group>
+<subject content-id="4" content-type="macro">Electrical Engineering, Electronics &amp; Computer Science</subject>
+<subject content-id="4.29" content-type="meso">Automation &amp; Control Systems</subject>
+<subject content-id="4.29.2166" content-type="micro">Guidance Law</subject>
+</subj-group>
+</citation_topics>
+</citation_related>
+</dynamic_data>
+</REC>
+
+<REC r_id_disclaimer="ResearcherID data provided by Clarivate Analytics">
+<UID>WOS:000882030900003</UID>
+<static_data>
+<summary>
+<EWUID>
+<WUID coll_id="WOS"/>
+<edition value="WOS.SCI"/>
+</EWUID>
+<pub_info sortdate="2023-01-30" pubyear="2023" has_abstract="Y" coverdate="JAN 30 2023" pubmonth="JAN 30" vol="609" pubtype="Journal">
+<page page_count="10"/>
+</pub_info>
+<titles count="6">
+<title type="source">APPLIED SURFACE SCIENCE</title>
+<title type="source_abbrev">APPL SURF SCI</title>
+<title type="abbrev_iso">Appl. Surf. Sci.</title>
+<title type="abbrev_11">APPL SURF S</title>
+<title type="abbrev_29">APPL SURF SCI</title>
+<title type="item">Identification of oxidation states in y-graphyne by computational XPS and NEXAFS spectra</title>
+</titles>
+<names count="6">
+<name seq_no="1" role="author" addr_no="1">
+<display_name>Zhang, Bing-Bing</display_name>
+<full_name>Zhang, Bing-Bing</full_name>
+<wos_standard>Zhang, BB</wos_standard>
+<first_name>Bing-Bing</first_name>
+<last_name>Zhang</last_name>
+</name>
+<name seq_no="2" role="author" addr_no="2">
+<display_name>Lin, Juan</display_name>
+<full_name>Lin, Juan</full_name>
+<wos_standard>Lin, J</wos_standard>
+<first_name>Juan</first_name>
+<last_name>Lin</last_name>
+</name>
+<name seq_no="3" role="author" reprint="Y" addr_no="1">
+<display_name>Song, Xiu-Neng</display_name>
+<full_name>Song, Xiu-Neng</full_name>
+<wos_standard>Song, XN</wos_standard>
+<first_name>Xiu-Neng</first_name>
+<last_name>Song</last_name>
+<email_addr>xiuneng@sdnu.edu.cn</email_addr>
+</name>
+<name seq_no="4" role="author" addr_no="1">
+<display_name>Wang, Chuan-Kui</display_name>
+<full_name>Wang, Chuan-Kui</full_name>
+<wos_standard>Wang, CK</wos_standard>
+<first_name>Chuan-Kui</first_name>
+<last_name>Wang</last_name>
+</name>
+<name seq_no="5" role="author" addr_no="3">
+<display_name>Hua, Weijie</display_name>
+<full_name>Hua, Weijie</full_name>
+<wos_standard>Hua, WJ</wos_standard>
+<first_name>Weijie</first_name>
+<last_name>Hua</last_name>
+</name>
+<name seq_no="6" role="author" reprint="Y" addr_no="1">
+<display_name>Ma, Yong</display_name>
+<full_name>Ma, Yong</full_name>
+<wos_standard>Ma, Y</wos_standard>
+<first_name>Yong</first_name>
+<last_name>Ma</last_name>
+<email_addr>mayong@sdnu.edu.cn</email_addr>
+</name>
+</names>
+<doctypes count="1">
+<doctype>Article</doctype>
+</doctypes>
+<publishers>
+<publisher>
+<address_spec addr_no="1">
+<full_address>RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS</full_address>
+<city>AMSTERDAM</city>
+</address_spec>
+<names count="1">
+<name role="publisher" seq_no="1" addr_no="1">
+<display_name>ELSEVIER</display_name>
+<full_name>ELSEVIER</full_name>
+<unified_name>Elsevier</unified_name>
+</name>
+</names>
+</publisher>
+</publishers>
+</summary>
+<fullrecord_metadata>
+<languages count="1">
+<language type="primary">English</language>
+</languages>
+<normalized_languages count="1">
+<language type="primary">English</language>
+</normalized_languages>
+<normalized_doctypes count="1">
+<doctype>Article</doctype>
+</normalized_doctypes>
+<references count="71">
+<reference occurenceOrder="44">
+<uid>WOS:000783589700004</uid>
+<citedAuthor>Sahu, J</citedAuthor>
+<year>2022</year>
+<page>ARTN 118673</page>
+<volume>243</volume>
+<citedTitle>Lattice defects and oxygen vacancies formulated ferromagnetic, luminescence, structural properties and band-gap tuning in Nd3+ substituted ZnO nanoparticles</citedTitle>
+<citedWork>JOURNAL OF LUMINESCENCE</citedWork>
+<doi>10.1016/j.jlumin.2021.118673</doi>
+</reference>
+<reference occurenceOrder="25">
+<uid>WOS:000294645700004</uid>
+<citedAuthor>Cranford, SW</citedAuthor>
+<year>2011</year>
+<page>4111</page>
+<volume>49</volume>
+<citedTitle>Mechanical properties of graphyne</citedTitle>
+<citedWork>CARBON</citedWork>
+<doi>10.1016/j.carbon.2011.05.024</doi>
+</reference>
+<reference occurenceOrder="42">
+<uid>WOS:000423771100016</uid>
+<citedAuthor>Kumari, K</citedAuthor>
+<year>2017</year>
+<page>985</page>
+<volume>172</volume>
+<citedTitle>Near-edge X-ray absorption fine structure spectroscopy and structural properties of Ni-doped CeO2 nanoparticles</citedTitle>
+<citedWork>RADIATION EFFECTS AND DEFECTS IN SOLIDS</citedWork>
+<doi>10.1080/10420150.2017.1421192</doi>
+</reference>
+<reference occurenceOrder="8">
+<uid>WOS:000283353700002</uid>
+<citedAuthor>Hirsch, A</citedAuthor>
+<year>2010</year>
+<page>868</page>
+<volume>9</volume>
+<citedTitle>The era of carbon allotropes</citedTitle>
+<citedWork>NATURE MATERIALS</citedWork>
+<doi>10.1038/nmat2885</doi>
+</reference>
+<reference occurenceOrder="54">
+<uid>WOS:A1996VP22500044</uid>
+<citedAuthor>Perdew, JP</citedAuthor>
+<year>1996</year>
+<page>3865</page>
+<volume>77</volume>
+<citedTitle>Generalized gradient approximation made simple</citedTitle>
+<citedWork>PHYSICAL REVIEW LETTERS</citedWork>
+</reference>
+<reference occurenceOrder="26">
+<uid>WOS:000354154300013</uid>
+<citedAuthor>Yadav, S</citedAuthor>
+<year>2015</year>
+<page>6128</page>
+<volume>40</volume>
+<citedTitle>A first principles study of hydrogen storage on lithium decorated two dimensional carbon allotropes</citedTitle>
+<citedWork>INTERNATIONAL JOURNAL OF HYDROGEN ENERGY</citedWork>
+<doi>10.1016/j.ijhydene.2015.03.038</doi>
+</reference>
+<reference occurenceOrder="28">
+<uid>WOS:000363312900089</uid>
+<citedAuthor>Ma, DW</citedAuthor>
+<year>2015</year>
+<page>756</page>
+<volume>95</volume>
+<citedTitle>Graphyne as a promising substrate for the noble-metal single-atom catalysts</citedTitle>
+<citedWork>CARBON</citedWork>
+<doi>10.1016/j.carbon.2015.09.008</doi>
+</reference>
+<reference occurenceOrder="33">
+<uid>WOS:000224539700002</uid>
+<citedAuthor>Winter, M</citedAuthor>
+<year>2004</year>
+<page>4245</page>
+<volume>104</volume>
+<citedTitle>What are batteries, fuel cells, and supercapacitors?</citedTitle>
+<citedWork>CHEMICAL REVIEWS</citedWork>
+<doi>10.1021/cr020730k</doi>
+</reference>
+<reference occurenceOrder="11">
+<uid>WOS:000382548000011</uid>
+<citedAuthor>Jin, ZW</citedAuthor>
+<year>2016</year>
+<page>5284</page>
+<volume>26</volume>
+<citedTitle>Graphdiyne: An Efficient Hole Transporter for Stable High-Performance Colloidal Quantum Dot Solar Cells</citedTitle>
+<citedWork>ADVANCED FUNCTIONAL MATERIALS</citedWork>
+<doi>10.1002/adfm.201601570</doi>
+</reference>
+<reference occurenceOrder="21">
+<uid>WOS:000373518800005</uid>
+<citedAuthor>Li, J</citedAuthor>
+<year>2016</year>
+<page>3954</page>
+<volume>138</volume>
+<citedTitle>Graphdiyne: A Metal-Free Material as Hole Transfer Layer To Fabricate Quantum Dot-Sensitized Photocathodes for Hydrogen Production</citedTitle>
+<citedWork>JOURNAL OF THE AMERICAN CHEMICAL SOCIETY</citedWork>
+<doi>10.1021/jacs.5b12758</doi>
+</reference>
+<reference occurenceOrder="65">
+<uid>WOS:000083070600056</uid>
+<citedAuthor>Nyberg, M</citedAuthor>
+<year>1999</year>
+<page>7956</page>
+<volume>60</volume>
+<citedTitle>Core-hole effects in x-ray-absorption spectra of fullerenes</citedTitle>
+<citedWork>PHYSICAL REVIEW B</citedWork>
+</reference>
+<reference occurenceOrder="2">
+<uid>WOS:000349667700005</uid>
+<citedAuthor>Guan, J</citedAuthor>
+<year>2015</year>
+<page>4139</page>
+<volume>3</volume>
+<citedTitle>Directly bonded hybrid of graphene nanoplatelets and fullerene: facile solid-state mechanochemical synthesis and application as carbon-based electrocatalyst for oxygen reduction reaction</citedTitle>
+<citedWork>JOURNAL OF MATERIALS CHEMISTRY A</citedWork>
+<doi>10.1039/c4ta05456c</doi>
+</reference>
+<reference occurenceOrder="51">
+<uid>WOS:000329070600017</uid>
+<citedAuthor>Chua, CK</citedAuthor>
+<year>2014</year>
+<page>291</page>
+<volume>43</volume>
+<citedTitle>Chemical reduction of graphene oxide: a synthetic chemistry viewpoint</citedTitle>
+<citedWork>CHEMICAL SOCIETY REVIEWS</citedWork>
+<doi>10.1039/c3cs60303b</doi>
+</reference>
+<reference occurenceOrder="10">
+<uid>WOS:000457067300018</uid>
+<citedAuthor>Kang, J</citedAuthor>
+<year>2019</year>
+<page>2692</page>
+<volume>11</volume>
+<citedTitle>Graphyne and Its Family: Recent Theoretical Advances</citedTitle>
+<citedWork>ACS APPLIED MATERIALS &amp; INTERFACES</citedWork>
+<doi>10.1021/acsami.8b03338</doi>
+</reference>
+<reference occurenceOrder="9">
+<uid>WOS:000309370700010</uid>
+<citedAuthor>Zhao, WH</citedAuthor>
+<year>2012</year>
+<page>434</page>
+<volume>25</volume>
+<citedTitle>Graphdiyne as Hydrogen Purification Membrane</citedTitle>
+<citedWork>CHINESE JOURNAL OF CHEMICAL PHYSICS</citedWork>
+<doi>10.1088/1674-0068/25/04/434-440</doi>
+</reference>
+<reference occurenceOrder="6">
+<uid>WOS:000333330200010</uid>
+<citedAuthor>Li, YJ</citedAuthor>
+<year>2014</year>
+<page>2572</page>
+<volume>43</volume>
+<citedTitle>Graphdiyne and graphyne: from theoretical predictions to practical construction</citedTitle>
+<citedWork>CHEMICAL SOCIETY REVIEWS</citedWork>
+<doi>10.1039/c3cs60388a</doi>
+</reference>
+<reference occurenceOrder="48">
+<uid>WOS:000451600200039</uid>
+<citedAuthor>Wu, LL</citedAuthor>
+<year>2018</year>
+<page>20947</page>
+<volume>6</volume>
+<citedTitle>Constructing a novel TiO2/gamma-graphyne heterojunction for enhanced photocatalytic hydrogen evolution</citedTitle>
+<citedWork>JOURNAL OF MATERIALS CHEMISTRY A</citedWork>
+<doi>10.1039/c8ta07307d</doi>
+</reference>
+<reference occurenceOrder="40">
+<uid>WOS:000728741500001</uid>
+<citedAuthor>Soni, S</citedAuthor>
+<year>2022</year>
+<page>ARTN 147140</page>
+<volume>254</volume>
+<citedTitle>Oxygen vacancies and defects induced room temperature ferromagnetic properties of pure and Fe-doped CeO2 nanomaterials investigated using X-ray photoelectron spectroscopy</citedTitle>
+<citedWork>JOURNAL OF ELECTRON SPECTROSCOPY AND RELATED PHENOMENA</citedWork>
+<doi>10.1016/j.elspec.2021.147140</doi>
+</reference>
+<reference occurenceOrder="31">
+<uid>WOS:000337013400061</uid>
+<citedAuthor>Kang, B</citedAuthor>
+<year>2014</year>
+<page>12035</page>
+<volume>118</volume>
+<citedTitle>Graphynes as Promising Cathode Material of Fuel Cell: Improvement of Oxygen Reduction Efficiency</citedTitle>
+<citedWork>JOURNAL OF PHYSICAL CHEMISTRY C</citedWork>
+<doi>10.1021/jp502780y</doi>
+</reference>
+<reference occurenceOrder="66">
+<uid>WOS:000571344300058</uid>
+<citedAuthor>Hua, WJ</citedAuthor>
+<year>2020</year>
+<page>20014</page>
+<volume>22</volume>
+<citedTitle>Theoretical assessment of vibrationally resolved C1s X-ray photoelectron spectra of simple cyclic molecules</citedTitle>
+<citedWork>PHYSICAL CHEMISTRY CHEMICAL PHYSICS</citedWork>
+<doi>10.1039/d0cp02970j</doi>
+</reference>
+<reference occurenceOrder="45">
+<uid>WOS:000560697500009</uid>
+<citedAuthor>Khakhal, HR</citedAuthor>
+<year>2020</year>
+<page>ARTN 156079</page>
+<volume>844</volume>
+<citedTitle>Oxygen vacancies and F+ centre tailored room temperature ferromagnetic properties of CeO2 nanoparticles with Pr doping concentrations and annealing in hydrogen environment</citedTitle>
+<citedWork>JOURNAL OF ALLOYS AND COMPOUNDS</citedWork>
+<doi>10.1016/j.jallcom.2020.156079</doi>
+</reference>
+<reference occurenceOrder="32">
+<uid>WOS:000388252700004</uid>
+<citedAuthor>Zagal, JH</citedAuthor>
+<year>2016</year>
+<page>14510</page>
+<volume>55</volume>
+<citedTitle>Reactivity Descriptors for the Activity of Molecular MN4 Catalysts for the Oxygen Reduction Reaction</citedTitle>
+<citedWork>ANGEWANDTE CHEMIE-INTERNATIONAL EDITION</citedWork>
+<doi>10.1002/anie.201604311</doi>
+</reference>
+<reference occurenceOrder="67">
+<uid>000882030900003.67</uid>
+<citedAuthor>Frisch, M.J.</citedAuthor>
+<year>2016</year>
+<citedWork>Gaussian 16 revision c.01,</citedWork>
+</reference>
+<reference occurenceOrder="57">
+<uid>000882030900003.57</uid>
+<citedAuthor>Hermann, K.</citedAuthor>
+<year>2014</year>
+<citedWork>Stobe-deMon Version 3.3</citedWork>
+</reference>
+<reference occurenceOrder="37">
+<uid>WOS:000314492500008</uid>
+<citedAuthor>Zhao, Y</citedAuthor>
+<year>2013</year>
+<page>1201</page>
+<volume>135</volume>
+<citedTitle>Can Boron and Nitrogen Co-doping Improve Oxygen Reduction Reaction Activity of Carbon Nanotubes?</citedTitle>
+<citedWork>JOURNAL OF THE AMERICAN CHEMICAL SOCIETY</citedWork>
+<doi>10.1021/ja310566z</doi>
+</reference>
+<reference occurenceOrder="69">
+<uid>WOS:000311190800012</uid>
+<citedAuthor>Song, XN</citedAuthor>
+<year>2012</year>
+<page>23938</page>
+<volume>116</volume>
+<citedTitle>Theoretical Study of Core Excitations of Fullerene-Based Polymer Solar Cell Acceptors</citedTitle>
+<citedWork>JOURNAL OF PHYSICAL CHEMISTRY C</citedWork>
+<doi>10.1021/jp307834x</doi>
+</reference>
+<reference occurenceOrder="1">
+<uid>WOS:000302800000003</uid>
+<citedAuthor>Dai, LM</citedAuthor>
+<year>2012</year>
+<page>1130</page>
+<volume>8</volume>
+<citedTitle>Carbon Nanomaterials for Advanced Energy Conversion and Storage</citedTitle>
+<citedWork>SMALL</citedWork>
+<doi>10.1002/smll.201101594</doi>
+</reference>
+<reference occurenceOrder="15">
+<uid>WOS:000369461500032</uid>
+<citedAuthor>Krishnamoorthy, K</citedAuthor>
+<year>2016</year>
+<page>1672</page>
+<volume>41</volume>
+<citedTitle>Graphdiyne nanostructures as a new electrode material for electrochemical supercapacitors</citedTitle>
+<citedWork>INTERNATIONAL JOURNAL OF HYDROGEN ENERGY</citedWork>
+<doi>10.1016/j.ijhydene.2015.10.118</doi>
+</reference>
+<reference occurenceOrder="18">
+<uid>WOS:000308420800033</uid>
+<citedAuthor>Zhang, YY</citedAuthor>
+<year>2012</year>
+<page>ARTN 081909</page>
+<volume>101</volume>
+<citedTitle>Mechanical properties of graphynes under tension: A molecular dynamics study</citedTitle>
+<citedWork>APPLIED PHYSICS LETTERS</citedWork>
+<doi>10.1063/1.4747719</doi>
+</reference>
+<reference occurenceOrder="27">
+<uid>WOS:000359268900010</uid>
+<citedAuthor>Karami, A</citedAuthor>
+<year>2015</year>
+<page>1071</page>
+<volume>44</volume>
+<citedTitle>Detection of Toxic Gases with Graphyne Nanotubes: A Density Functional Theory Study</citedTitle>
+<citedWork>CHEMISTRY LETTERS</citedWork>
+<doi>10.1246/cl.150333</doi>
+</reference>
+<reference occurenceOrder="60">
+<uid>WOS:A1986C899500063</uid>
+<citedAuthor>PERDEW, JP</citedAuthor>
+<year>1986</year>
+<page>8822</page>
+<volume>33</volume>
+<citedTitle>DENSITY-FUNCTIONAL APPROXIMATION FOR THE CORRELATION-ENERGY OF THE INHOMOGENEOUS ELECTRON-GAS</citedTitle>
+<citedWork>PHYSICAL REVIEW B</citedWork>
+</reference>
+<reference occurenceOrder="56">
+<uid>WOS:000471602000075</uid>
+<citedAuthor>Ma, Y</citedAuthor>
+<year>2019</year>
+<page>672</page>
+<volume>149</volume>
+<citedTitle>Local structures of nitrogen-doped graphdiynes determined by computational X-ray spectroscopy</citedTitle>
+<citedWork>CARBON</citedWork>
+<doi>10.1016/j.carbon.2019.04.045</doi>
+</reference>
+<reference occurenceOrder="70">
+<uid>WOS:A1964WM37800013</uid>
+<citedAuthor>HAGSTROM, S</citedAuthor>
+<year>1964</year>
+<page>235</page>
+<volume>9</volume>
+<citedTitle>ELECTRON SPECTROSCOPY FOR CHEMICAL ANALYSIS</citedTitle>
+<citedWork>PHYSICS LETTERS</citedWork>
+</reference>
+<reference occurenceOrder="7">
+<uid>WOS:A1987L056800058</uid>
+<citedAuthor>BAUGHMAN, RH</citedAuthor>
+<year>1987</year>
+<page>6687</page>
+<volume>87</volume>
+<citedTitle>STRUCTURE-PROPERTY PREDICTIONS FOR NEW PLANAR FORMS OF CARBON - LAYERED PHASES CONTAINING SP2 AND SP ATOMS</citedTitle>
+<citedWork>JOURNAL OF CHEMICAL PHYSICS</citedWork>
+</reference>
+<reference occurenceOrder="17">
+<uid>WOS:000442706200007</uid>
+<citedAuthor>Huang, CS</citedAuthor>
+<year>2018</year>
+<page>7744</page>
+<volume>118</volume>
+<citedTitle>Progress in Research into 2D Graphdiyne-Based Materials</citedTitle>
+<citedWork>CHEMICAL REVIEWS</citedWork>
+<doi>10.1021/acs.chemrev.8b00288</doi>
+</reference>
+<reference occurenceOrder="29">
+<uid>WOS:000403665000008</uid>
+<citedAuthor>Kim, S</citedAuthor>
+<year>2017</year>
+<page>63</page>
+<volume>120</volume>
+<citedTitle>Functionalization of gamma-graphyne by transition metal adatoms</citedTitle>
+<citedWork>CARBON</citedWork>
+<doi>10.1016/j.carbon.2017.05.028</doi>
+</reference>
+<reference occurenceOrder="14">
+<uid>WOS:000583614200002</uid>
+<citedAuthor>Gong, YM</citedAuthor>
+<year>2020</year>
+<page>21408</page>
+<volume>8</volume>
+<citedTitle>Progress in energy-related graphyne-based materials: advanced synthesis, functional mechanisms and applications</citedTitle>
+<citedWork>JOURNAL OF MATERIALS CHEMISTRY A</citedWork>
+<doi>10.1039/d0ta08521a</doi>
+</reference>
+<reference occurenceOrder="49">
+<uid>WOS:000504778900033</uid>
+<citedAuthor>Ding, W</citedAuthor>
+<year>2020</year>
+<page>ARTN 104850</page>
+<volume>61</volume>
+<citedTitle>Ultrasound-promoted synthesis of gamma-graphyne for supercapacitor and photoelectrochemical applications</citedTitle>
+<citedWork>ULTRASONICS SONOCHEMISTRY</citedWork>
+<doi>10.1016/j.ultsonch.2019.104850</doi>
+</reference>
+<reference occurenceOrder="16">
+<uid>WOS:000692202600001</uid>
+<citedAuthor>Sha, XW</citedAuthor>
+<year>2021</year>
+<page>5853</page>
+<volume>3</volume>
+<citedTitle>First principles quantum calculations for graphyne for electronic devices</citedTitle>
+<citedWork>NANOSCALE ADVANCES</citedWork>
+<doi>10.1039/d1na00336d</doi>
+</reference>
+<reference occurenceOrder="30">
+<uid>WOS:000566337300003</uid>
+<citedAuthor>Ma, JP</citedAuthor>
+<year>2020</year>
+<page>ARTN 147343</page>
+<volume>531</volume>
+<citedTitle>gamma-Graphyne nanotubes as promising lithium-ion battery anodes</citedTitle>
+<citedWork>APPLIED SURFACE SCIENCE</citedWork>
+<doi>10.1016/j.apsusc.2020.147343</doi>
+</reference>
+<reference occurenceOrder="63">
+<uid>WOS:000492992600011</uid>
+<citedAuthor>Zhang, JR</citedAuthor>
+<year>2019</year>
+<page>22819</page>
+<volume>21</volume>
+<citedTitle>Accurate K-edge X-ray photoelectron and absorption spectra of g-C3N4 nanosheets by first-principles simulations and reinterpretations</citedTitle>
+<citedWork>PHYSICAL CHEMISTRY CHEMICAL PHYSICS</citedWork>
+<doi>10.1039/c9cp04573b</doi>
+</reference>
+<reference occurenceOrder="36">
+<uid>WOS:000393249600044</uid>
+<citedAuthor>Wang, Y</citedAuthor>
+<year>2017</year>
+<page>393</page>
+<volume>114</volume>
+<citedTitle>Doped fullerene as a metal-free electrocatalyst for oxygen reduction reaction: A first-principles study</citedTitle>
+<citedWork>CARBON</citedWork>
+<doi>10.1016/j.carbon.2016.12.028</doi>
+</reference>
+<reference occurenceOrder="50">
+<uid>WOS:000283049800016</uid>
+<citedAuthor>Hua, WJ</citedAuthor>
+<year>2010</year>
+<page>ARTN 155433</page>
+<volume>82</volume>
+<citedTitle>X-ray absorption spectra of graphene from first-principles simulations</citedTitle>
+<citedWork>PHYSICAL REVIEW B</citedWork>
+<doi>10.1103/PhysRevB.82.155433</doi>
+</reference>
+<reference occurenceOrder="12">
+<uid>WOS:000726638700001</uid>
+<citedAuthor>Yao, FT</citedAuthor>
+<year>2021</year>
+<page>14122</page>
+<volume>11</volume>
+<citedTitle>Graphynes: Electronic Properties, Synthesis, and Applications in Catalysis</citedTitle>
+<citedWork>ACS CATALYSIS</citedWork>
+<doi>10.1021/acscatal.1c04279</doi>
+</reference>
+<reference occurenceOrder="55">
+<uid>WOS:000078291000045</uid>
+<citedAuthor>Kresse, G</citedAuthor>
+<year>1999</year>
+<page>1758</page>
+<volume>59</volume>
+<citedTitle>From ultrasoft pseudopotentials to the projector augmented-wave method</citedTitle>
+<citedWork>PHYSICAL REVIEW B</citedWork>
+</reference>
+<reference occurenceOrder="62">
+<uid>WOS:A1994NF08100043</uid>
+<citedAuthor>SCHAFER, A</citedAuthor>
+<year>1994</year>
+<page>5829</page>
+<volume>100</volume>
+<citedTitle>FULLY OPTIMIZED CONTRACTED GAUSSIAN-BASIS SETS OF TRIPLE ZETA VALENCE QUALITY FOR ATOMS LI TO KR</citedTitle>
+<citedWork>JOURNAL OF CHEMICAL PHYSICS</citedWork>
+</reference>
+<reference occurenceOrder="3">
+<uid>WOS:000234126300019</uid>
+<citedAuthor>Bianco, A</citedAuthor>
+<year>2005</year>
+<page>674</page>
+<volume>9</volume>
+<citedTitle>Applications of carbon nanotubes in drug delivery</citedTitle>
+<citedWork>CURRENT OPINION IN CHEMICAL BIOLOGY</citedWork>
+<doi>10.1016/j.cbpa.2005.10.005</doi>
+</reference>
+<reference occurenceOrder="41">
+<uid>WOS:000432672300060</uid>
+<citedAuthor>Soni, S</citedAuthor>
+<year>2018</year>
+<page>520</page>
+<volume>752</volume>
+<citedTitle>Defects and oxygen vacancies tailored structural and optical properties in CeO2 nanoparticles doped with Sm3+ cation</citedTitle>
+<citedWork>JOURNAL OF ALLOYS AND COMPOUNDS</citedWork>
+<doi>10.1016/j.jallcom.2018.04.157</doi>
+</reference>
+<reference occurenceOrder="19">
+<uid>WOS:000440453200029</uid>
+<citedAuthor>Li, QD</citedAuthor>
+<year>2018</year>
+<page>248</page>
+<volume>136</volume>
+<citedTitle>Synthesis of gamma-graphyne by mechanochemistry and its electronic structure</citedTitle>
+<citedWork>CARBON</citedWork>
+<doi>10.1016/j.carbon.2018.04.081</doi>
+</reference>
+<reference occurenceOrder="23">
+<uid>WOS:000457067300022</uid>
+<citedAuthor>Li, JQ</citedAuthor>
+<year>2019</year>
+<page>2734</page>
+<volume>11</volume>
+<citedTitle>Template Synthesis of an Ultrathin beta-Graphdiyne-Like Film Using the Eglinton Coupling Reaction</citedTitle>
+<citedWork>ACS APPLIED MATERIALS &amp; INTERFACES</citedWork>
+<doi>10.1021/acsami.8b03028</doi>
+</reference>
+<reference occurenceOrder="24">
+<uid>WOS:000367233000049</uid>
+<citedAuthor>Kim, H</citedAuthor>
+<year>2016</year>
+<page>404</page>
+<volume>98</volume>
+<citedTitle>Computational searching for new stable graphyne structures and their electronic properties</citedTitle>
+<citedWork>CARBON</citedWork>
+<doi>10.1016/j.carbon.2015.10.102</doi>
+</reference>
+<reference occurenceOrder="61">
+<uid>000882030900003.61</uid>
+<citedAuthor>Kutzelnigg, W.</citedAuthor>
+<year>1990</year>
+<page>165</page>
+<volume>23</volume>
+<citedWork>NMR Basic Principles and Progress</citedWork>
+</reference>
+<reference occurenceOrder="47">
+<uid>WOS:000459488300017</uid>
+<citedAuthor>Yang, CF</citedAuthor>
+<year>2019</year>
+<page>ARTN 1804710</page>
+<volume>15</volume>
+<citedTitle>Mechanochemical Synthesis of gamma-Graphyne with Enhanced Lithium Storage Performance</citedTitle>
+<citedWork>SMALL</citedWork>
+<doi>10.1002/smll.201804710</doi>
+</reference>
+<reference occurenceOrder="52">
+<uid>WOS:A1996VT67500040</uid>
+<citedAuthor>Kresse, G</citedAuthor>
+<year>1996</year>
+<page>11169</page>
+<volume>54</volume>
+<citedTitle>Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set</citedTitle>
+<citedWork>PHYSICAL REVIEW B</citedWork>
+</reference>
+<reference occurenceOrder="34">
+<uid>WOS:000250490600020</uid>
+<citedAuthor>Yu, XW</citedAuthor>
+<year>2007</year>
+<page>145</page>
+<volume>172</volume>
+<citedTitle>Recent advances in activity and durability enhancement of Pt/C catalytic cathode in PEMFC - Part II: Degradation mechanism and durability enhancement of carbon supported platinum catalyst</citedTitle>
+<citedWork>JOURNAL OF POWER SOURCES</citedWork>
+<doi>10.1016/j.jpowsour.2007.07.048</doi>
+</reference>
+<reference occurenceOrder="22">
+<uid>WOS:000419832100023</uid>
+<citedAuthor>Gao, J</citedAuthor>
+<year>2018</year>
+<page>192</page>
+<volume>43</volume>
+<citedTitle>Architecture and properties of a novel two-dimensional carbon material-graphtetrayne</citedTitle>
+<citedWork>NANO ENERGY</citedWork>
+<doi>10.1016/j.nanoen.2017.11.005</doi>
+</reference>
+<reference occurenceOrder="20">
+<citedAuthor>HU YM</citedAuthor>
+<year>2022</year>
+<page>00449</page>
+<volume>0001</volume>
+<citedWork>NAT SYNTH</citedWork>
+<doi>10.1038/S44160-022-00068-7</doi>
+</reference>
+<reference occurenceOrder="5">
+<uid>WOS:000311641500028</uid>
+<citedAuthor>Cranford, SW</citedAuthor>
+<year>2012</year>
+<page>7797</page>
+<volume>4</volume>
+<citedTitle>Extended graphynes: simple scaling laws for stiffness, strength and fracture</citedTitle>
+<citedWork>NANOSCALE</citedWork>
+<doi>10.1039/c2nr31644g</doi>
+</reference>
+<reference occurenceOrder="68">
+<uid>WOS:A1988L976200011</uid>
+<citedAuthor>LEE, CT</citedAuthor>
+<year>1988</year>
+<page>785</page>
+<volume>37</volume>
+<citedTitle>DEVELOPMENT OF THE COLLE-SALVETTI CORRELATION-ENERGY FORMULA INTO A FUNCTIONAL OF THE ELECTRON-DENSITY</citedTitle>
+<citedWork>PHYSICAL REVIEW B</citedWork>
+</reference>
+<reference occurenceOrder="58">
+<uid>WOS:000081303400020</uid>
+<citedAuthor>Triguero, L</citedAuthor>
+<year>1999</year>
+<page>195</page>
+<volume>104</volume>
+<citedTitle>Separate state vs. transition state Kohn-Sham calculations of X-ray photoelectron binding energies and chemical shifts</citedTitle>
+<citedWork>JOURNAL OF ELECTRON SPECTROSCOPY AND RELATED PHENOMENA</citedWork>
+</reference>
+<reference occurenceOrder="39">
+<uid>WOS:000376607200017</uid>
+<citedAuthor>Kang, BT</citedAuthor>
+<year>2016</year>
+<page>156</page>
+<volume>105</volume>
+<citedTitle>Importance of doping site of B, N, and O in tuning electronic structure of graphynes</citedTitle>
+<citedWork>CARBON</citedWork>
+<doi>10.1016/j.carbon.2016.04.032</doi>
+</reference>
+<reference occurenceOrder="43">
+<uid>WOS:000288841900003</uid>
+<citedAuthor>Dalela, S</citedAuthor>
+<year>2011</year>
+<page>137</page>
+<volume>471</volume>
+<citedTitle>An EXAFS study on Bi2Sr2Ca1-xPrxCu2O8-delta single crystal using polarized synchrotron radiation</citedTitle>
+<citedWork>PHYSICA C-SUPERCONDUCTIVITY AND ITS APPLICATIONS</citedWork>
+<doi>10.1016/j.physc.2010.12.011</doi>
+</reference>
+<reference occurenceOrder="4">
+<uid>WOS:000406168500006</uid>
+<citedAuthor>Peng, ZL</citedAuthor>
+<year>2017</year>
+<page>256</page>
+<volume>343</volume>
+<citedTitle>Carbon dots: Biomacromolecule interaction, bioimaging and nanomedicine</citedTitle>
+<citedWork>COORDINATION CHEMISTRY REVIEWS</citedWork>
+<doi>10.1016/j.ccr.2017.06.001</doi>
+</reference>
+<reference occurenceOrder="13">
+<uid>WOS:000627740200001</uid>
+<citedAuthor>Torres-Pinto, A</citedAuthor>
+<year>2021</year>
+<page>ARTN 2003900</page>
+<volume>8</volume>
+<citedTitle>Advances on Graphyne-Family Members for Superior Photocatalytic Behavior</citedTitle>
+<citedWork>ADVANCED SCIENCE</citedWork>
+<doi>10.1002/advs.202003900</doi>
+</reference>
+<reference occurenceOrder="59">
+<uid>WOS:A1988Q146900044</uid>
+<citedAuthor>BECKE, AD</citedAuthor>
+<year>1988</year>
+<page>3098</page>
+<volume>38</volume>
+<citedTitle>DENSITY-FUNCTIONAL EXCHANGE-ENERGY APPROXIMATION WITH CORRECT ASYMPTOTIC-BEHAVIOR</citedTitle>
+<citedWork>PHYSICAL REVIEW A</citedWork>
+</reference>
+<reference occurenceOrder="71">
+<uid>WOS:000353930700076</uid>
+<citedAuthor>Zhang, YQ</citedAuthor>
+<year>2015</year>
+<page>9669</page>
+<volume>119</volume>
+<citedTitle>Unusual Deprotonated Alkynyl Hydrogen Bonding in Metal-Supported Hydrocarbon Assembly</citedTitle>
+<citedWork>JOURNAL OF PHYSICAL CHEMISTRY C</citedWork>
+<doi>10.1021/acs.jpcc.5b02955</doi>
+</reference>
+<reference occurenceOrder="46">
+<uid>WOS:000430477900036</uid>
+<citedAuthor>Aljawfi, RN</citedAuthor>
+<year>2018</year>
+<page>287</page>
+<volume>445</volume>
+<citedTitle>Effects of rapid thermal annealing on the local environment, electronic structure and magnetic properties of Mn doped TiO2 thin films</citedTitle>
+<citedWork>APPLIED SURFACE SCIENCE</citedWork>
+<doi>10.1016/j.apsusc.2018.03.138</doi>
+</reference>
+<reference occurenceOrder="53">
+<uid>WOS:A1996VF38900003</uid>
+<citedAuthor>Kresse, G</citedAuthor>
+<year>1996</year>
+<page>15</page>
+<volume>6</volume>
+<citedTitle>Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set</citedTitle>
+<citedWork>COMPUTATIONAL MATERIALS SCIENCE</citedWork>
+</reference>
+<reference occurenceOrder="35">
+<uid>WOS:000263066800040</uid>
+<citedAuthor>Gong, KP</citedAuthor>
+<year>2009</year>
+<page>760</page>
+<volume>323</volume>
+<citedTitle>Nitrogen-Doped Carbon Nanotube Arrays with High Electrocatalytic Activity for Oxygen Reduction</citedTitle>
+<citedWork>SCIENCE</citedWork>
+<doi>10.1126/science.1168049</doi>
+</reference>
+<reference occurenceOrder="64">
+<uid>WOS:000089701700002</uid>
+<citedAuthor>Plashkevych, O</citedAuthor>
+<year>2000</year>
+<page>11</page>
+<volume>260</volume>
+<citedTitle>On the validity of the equivalent cores approximation for computing X-ray photoemission and photoabsorption spectral bands</citedTitle>
+<citedWork>CHEMICAL PHYSICS</citedWork>
+</reference>
+<reference occurenceOrder="38">
+<uid>WOS:000355495600024</uid>
+<citedAuthor>Chen, X</citedAuthor>
+<year>2015</year>
+<page>11493</page>
+<volume>119</volume>
+<citedTitle>Why Do Boron and Nitrogen Doped alpha- and gamma-Graphyne Exhibit Different Oxygen Reduction Mechanism? A First-Principles Study</citedTitle>
+<citedWork>JOURNAL OF PHYSICAL CHEMISTRY C</citedWork>
+<doi>10.1021/acs.jpcc.5b02505</doi>
+</reference>
+</references>
+<addresses count="3">
+<address_name>
+<address_spec addr_no="1">
+<full_address>Shandong Normal Univ, Sch Phys &amp; Elect, Jinan 250358, Peoples R China</full_address>
+<organizations count="2">
+<organization>Shandong Normal Univ</organization>
+<organization pref="Y">Shandong Normal University</organization>
+</organizations>
+<suborganizations count="1">
+<suborganization>Sch Phys &amp; Elect</suborganization>
+</suborganizations>
+<city>Jinan</city>
+<country>Peoples R China</country>
+<zip location="AC">250358</zip>
+</address_spec>
+<names count="4">
+<name seq_no="1" role="author" addr_no="1" r_id="GCN-1405-2022">
+<display_name>Zhang, Bing-Bing</display_name>
+<full_name>Zhang, Bing-Bing</full_name>
+<wos_standard>Zhang, BB</wos_standard>
+<first_name>Bing-Bing</first_name>
+<last_name>Zhang</last_name>
+</name>
+<name seq_no="3" role="author" reprint="Y" addr_no="1" r_id="DSO-8162-2022">
+<display_name>Song, Xiu-Neng</display_name>
+<full_name>Song, Xiu-Neng</full_name>
+<wos_standard>Song, XN</wos_standard>
+<first_name>Xiu-Neng</first_name>
+<last_name>Song</last_name>
+<email_addr>xiuneng@sdnu.edu.cn</email_addr>
+</name>
+<name seq_no="4" role="author" addr_no="1">
+<display_name>Wang, Chuan-Kui</display_name>
+<full_name>Wang, Chuan-Kui</full_name>
+<wos_standard>Wang, CK</wos_standard>
+<first_name>Chuan-Kui</first_name>
+<last_name>Wang</last_name>
+</name>
+<name seq_no="6" role="author" reprint="Y" addr_no="1" r_id="DDN-2683-2022">
+<display_name>Ma, Yong</display_name>
+<full_name>Ma, Yong</full_name>
+<wos_standard>Ma, Y</wos_standard>
+<first_name>Yong</first_name>
+<last_name>Ma</last_name>
+<email_addr>mayong@sdnu.edu.cn</email_addr>
+</name>
+</names>
+</address_name>
+<address_name>
+<address_spec addr_no="2">
+<full_address>Shandong Agr &amp; Engn Univ, Dept Fundamental Course, Jinan 250100, Peoples R China</full_address>
+<organizations count="2">
+<organization>Shandong Agr &amp; Engn Univ</organization>
+<organization pref="Y">Shandong Agriculture &amp; Engineering University</organization>
+</organizations>
+<suborganizations count="1">
+<suborganization>Dept Fundamental Course</suborganization>
+</suborganizations>
+<city>Jinan</city>
+<country>Peoples R China</country>
+<zip location="AC">250100</zip>
+</address_spec>
+<names count="1">
+<name seq_no="2" role="author" addr_no="2" r_id="DCA-6994-2022">
+<display_name>Lin, Juan</display_name>
+<full_name>Lin, Juan</full_name>
+<wos_standard>Lin, J</wos_standard>
+<first_name>Juan</first_name>
+<last_name>Lin</last_name>
+</name>
+</names>
+</address_name>
+<address_name>
+<address_spec addr_no="3">
+<full_address>Nanjing Univ Sci &amp; Technol, Dept Appl Phys, Sch Sci, MIIT Key Lab Semicond Microstruct &amp; Quantum Sensin, Nanjing 210094, Peoples R China</full_address>
+<organizations count="2">
+<organization>Nanjing Univ Sci &amp; Technol</organization>
+<organization pref="Y">Nanjing University of Science &amp; Technology</organization>
+</organizations>
+<suborganizations count="3">
+<suborganization>Dept Appl Phys</suborganization>
+<suborganization>Sch Sci</suborganization>
+<suborganization>MIIT Key Lab Semicond Microstruct &amp; Quantum Sensin</suborganization>
+</suborganizations>
+<city>Nanjing</city>
+<country>Peoples R China</country>
+<zip location="AC">210094</zip>
+</address_spec>
+<names count="1">
+<name seq_no="5" role="author" addr_no="3" r_id="FYB-7414-2022">
+<display_name>Hua, Weijie</display_name>
+<full_name>Hua, Weijie</full_name>
+<wos_standard>Hua, WJ</wos_standard>
+<first_name>Weijie</first_name>
+<last_name>Hua</last_name>
+</name>
+</names>
+</address_name>
+</addresses>
+<reprint_addresses count="1">
+<address_name>
+<address_spec addr_no="1">
+<full_address>Shandong Normal Univ, Sch Phys &amp; Elect, Jinan 250358, Peoples R China</full_address>
+<organizations count="2">
+<organization>Shandong Normal Univ</organization>
+<organization pref="Y">Shandong Normal University</organization>
+</organizations>
+<suborganizations count="1">
+<suborganization>Sch Phys &amp; Elect</suborganization>
+</suborganizations>
+<city>Jinan</city>
+<country>Peoples R China</country>
+<zip location="AC">250358</zip>
+</address_spec>
+<names count="2">
+<name seq_no="1" role="author" reprint="Y" addr_no="1">
+<display_name>Song, Xiu-Neng</display_name>
+<full_name>Song, Xiu-Neng</full_name>
+<wos_standard>Song, XN</wos_standard>
+<first_name>Xiu-Neng</first_name>
+<last_name>Song</last_name>
+<email_addr>xiuneng@sdnu.edu.cn</email_addr>
+</name>
+<name seq_no="2" role="author" reprint="Y" addr_no="1">
+<display_name>Ma, Yong</display_name>
+<full_name>Ma, Yong</full_name>
+<wos_standard>Ma, Y</wos_standard>
+<first_name>Yong</first_name>
+<last_name>Ma</last_name>
+</name>
+</names>
+</address_name>
+</reprint_addresses>
+<category_info>
+<headings count="1">
+<heading>Science &amp; Technology</heading>
+</headings>
+<subheadings count="2">
+<subheading>Physical Sciences</subheading>
+<subheading>Technology</subheading>
+</subheadings>
+<subjects count="7">
+<subject ascatype="traditional">Chemistry, Physical</subject>
+<subject ascatype="traditional">Materials Science, Coatings &amp; Films</subject>
+<subject ascatype="traditional">Physics, Applied</subject>
+<subject ascatype="traditional">Physics, Condensed Matter</subject>
+<subject ascatype="extended">Chemistry</subject>
+<subject ascatype="extended">Materials Science</subject>
+<subject ascatype="extended">Physics</subject>
+</subjects>
+</category_info>
+<fund_ack>
+<fund_text>
+<p>This work is supported by the Shandong Provincial Natural Sci-ence Foundation of China (Grant No. ZR2020MA077, ZR2022MA025) and the National Natural Science Foundation of China (Grant No. 11874242) .</p>
+</fund_text>
+<grants count="5">
+<grant>
+<grant_agency>Shandong Provincial Natural Sci-ence Foundation of China</grant_agency>
+<grant_agency pref="Y">Natural Science Foundation of Shandong Province</grant_agency>
+</grant>
+<grant>
+<grant_agency>National Natural Science Foundation of China</grant_agency>
+<grant_agency pref="Y">National Natural Science Foundation of China (NSFC)</grant_agency>
+</grant>
+<grant>
+<grant_ids count="1">
+<grant_id>ZR2020MA077</grant_id>
+</grant_ids>
+</grant>
+<grant>
+<grant_ids count="1">
+<grant_id>ZR2022MA025</grant_id>
+</grant_ids>
+</grant>
+<grant>
+<grant_ids count="1">
+<grant_id>11874242</grant_id>
+</grant_ids>
+</grant>
+</grants>
+</fund_ack>
+<keywords count="5">
+<keyword>Oxidation state</keyword>
+<keyword>y-graphyne</keyword>
+<keyword>X-ray photoelectron spectroscopy</keyword>
+<keyword>Near-edge X-ray absorption fine structure</keyword>
+<keyword>spectroscopy</keyword>
+</keywords>
+<abstracts count="1">
+<abstract>
+<abstract_text count="1">
+<p>Oxidation is an inevitable process for y-graphyne (y-GY), a two-dimensional (2D) material of carbon, both in its natural state and during large-scale processing. Understanding the oxidation states within y-GY is of fundamental importance for further applications. In this work, with density functional theory (DFT) simulations of seven representative oxygen-doped y-GY structures, we demonstrate that the X-ray photoelectron (XPS) and near-edge X-ray absorption fine-structure (NEXAFS) spectra at the oxygen and carbon K-edges are sensitive for different local structures of oxygen dopants. The theoretical calculation results of y-GY and seven oxygen-doped y-GY configurations fit well with the experiment, and all characteristic experimental XPS peaks are assigned. We found that the C 1s ionization potential (IP) of sp2-hybridized carbons is higher than that of sp-hybridized carbons for the pristine y-GY. By complete and elaborate analysis of the NEXAFS spectrum of each structure at the carbon and oxygen K edges, the seven oxygen-doped y-GY configurations have been successfully identified. The results can be considered as a benchmark for the determination of oxygen-doped y-GY configurations, and provide a deep insight into the structure-spectroscopy relationships.</p>
+</abstract_text>
+</abstract>
+</abstracts>
+</fullrecord_metadata>
+<item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="itemType_wos">
+<ids avail="N">6C5BZ</ids>
+<bib_id>609: - JAN 30 2023</bib_id>
+<bib_pagecount type="Journal">50</bib_pagecount>
+<keywords_plus count="10">
+<keyword>OXYGEN REDUCTION REACTION</keyword>
+<keyword>TOTAL-ENERGY CALCULATIONS</keyword>
+<keyword>GAMMA-GRAPHYNE</keyword>
+<keyword>ELECTRONIC-STRUCTURE</keyword>
+<keyword>CARBON</keyword>
+<keyword>GRAPHDIYNE</keyword>
+<keyword>APPROXIMATION</keyword>
+<keyword>FULLERENE</keyword>
+<keyword>ELECTROCATALYST</keyword>
+<keyword>SPECTROSCOPY</keyword>
+</keywords_plus>
+</item>
+</static_data>
+<dynamic_data>
+<cluster_related>
+<identifiers>
+<identifier type="accession_no" value="6C5BZ"/>
+<identifier type="issn" value="0169-4332"/>
+<identifier type="eissn" value="1873-5584"/>
+<identifier type="art_no" value="ARTN 155134"/>
+<identifier type="doi" value="10.1016/j.apsusc.2022.155134"/>
+</identifiers>
+</cluster_related>
+<citation_related>
+<citation_topics>
+<subj-group>
+<subject content-id="2" content-type="macro">Chemistry</subject>
+<subject content-id="2.76" content-type="meso">2D Materials</subject>
+<subject content-id="2.76.39" content-type="micro">Graphene</subject>
+</subj-group>
+</citation_topics>
+</citation_related>
+</dynamic_data>
+</REC>
+
+<REC r_id_disclaimer="ResearcherID data provided by Clarivate Analytics">
+<UID>WOS:000893217900002</UID>
+<static_data>
+<summary>
+<EWUID>
+<WUID coll_id="WOS"/>
+<edition value="WOS.SCI"/>
+</EWUID>
+<pub_info sortdate="2023-02-01" pubyear="2023" has_abstract="Y" coverdate="FEB 2023" pubmonth="FEB" vol="201" pubtype="Journal">
+<page page_count="21"/>
+</pub_info>
+<titles count="6">
+<title type="source">JOURNAL OF CONSTRUCTIONAL STEEL RESEARCH</title>
+<title type="source_abbrev">J CONSTR STEEL RES</title>
+<title type="abbrev_iso">J. Constr. Steel. Res.</title>
+<title type="abbrev_11">J CONSTR ST</title>
+<title type="abbrev_29">J CONSTR STEEL RES</title>
+<title type="item">Experimental and theoretical investigation of prefabricated separated core tube flange column connection joint</title>
+</titles>
+<names count="5">
+<name seq_no="1" role="author" addr_no="1 3">
+<display_name>Zhang, Ai-lin</display_name>
+<full_name>Zhang, Ai-lin</full_name>
+<wos_standard>Zhang, AL</wos_standard>
+<first_name>Ai-lin</first_name>
+<last_name>Zhang</last_name>
+</name>
+<name seq_no="2" role="author" addr_no="1">
+<display_name>Chen, Xiao-dong</display_name>
+<full_name>Chen, Xiao-dong</full_name>
+<wos_standard>Chen, XD</wos_standard>
+<first_name>Xiao-dong</first_name>
+<last_name>Chen</last_name>
+</name>
+<name seq_no="3" role="author" reprint="Y" addr_no="1 2">
+<display_name>Zhang, Yan-xia</display_name>
+<full_name>Zhang, Yan-xia</full_name>
+<wos_standard>Zhang, YX</wos_standard>
+<first_name>Yan-xia</first_name>
+<last_name>Zhang</last_name>
+<email_addr>zhangyanxia@bucea.edu.cn</email_addr>
+</name>
+<name seq_no="4" role="author" addr_no="1">
+<display_name>Zhao, Xi</display_name>
+<full_name>Zhao, Xi</full_name>
+<wos_standard>Zhao, X</wos_standard>
+<first_name>Xi</first_name>
+<last_name>Zhao</last_name>
+</name>
+<name seq_no="5" role="author" addr_no="1">
+<display_name>Huang, Wei-zhen</display_name>
+<full_name>Huang, Wei-zhen</full_name>
+<wos_standard>Huang, WZ</wos_standard>
+<first_name>Wei-zhen</first_name>
+<last_name>Huang</last_name>
+</name>
+</names>
+<doctypes count="1">
+<doctype>Article</doctype>
+</doctypes>
+<publishers>
+<publisher>
+<address_spec addr_no="1">
+<full_address>THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND</full_address>
+<city>OXFORD</city>
+</address_spec>
+<names count="1">
+<name role="publisher" seq_no="1" addr_no="1">
+<display_name>ELSEVIER SCI LTD</display_name>
+<full_name>ELSEVIER SCI LTD</full_name>
+<unified_name>Elsevier</unified_name>
+</name>
+</names>
+</publisher>
+</publishers>
+</summary>
+<fullrecord_metadata>
+<languages count="1">
+<language type="primary">English</language>
+</languages>
+<normalized_languages count="1">
+<language type="primary">English</language>
+</normalized_languages>
+<normalized_doctypes count="1">
+<doctype>Article</doctype>
+</normalized_doctypes>
+<references count="29">
+<reference occurenceOrder="4">
+<uid>CSCD:4645101</uid>
+<citedAuthor>Wang Wei</citedAuthor>
+<year>2012</year>
+<page>48</page>
+<volume>42</volume>
+<citedTitle>Floor-by-floor assembled steel braced structures for prefabricated buildings</citedTitle>
+<citedWork>Building Structure</citedWork>
+</reference>
+<reference occurenceOrder="27">
+<uid>000893217900002.28</uid>
+<year>2016</year>
+<citedTitle>Code for Seismic Design of Buildings</citedTitle>
+<citedWork>GB 50011-2010</citedWork>
+</reference>
+<reference occurenceOrder="15">
+<uid>WOS:000448101300052</uid>
+<citedAuthor>Sanches, R</citedAuthor>
+<year>2018</year>
+<page>776</page>
+<volume>175</volume>
+<citedTitle>Experimental investigations of vertical post-tensioned connection for modular steel structures</citedTitle>
+<citedWork>ENGINEERING STRUCTURES</citedWork>
+<doi>10.1016/j.engstruct.2018.08.049</doi>
+</reference>
+<reference occurenceOrder="14">
+<uid>000893217900002.14</uid>
+<citedAuthor>Liu, K.</citedAuthor>
+<year>2014</year>
+<volume>16</volume>
+<citedTitle>Experimental study on load-bearing capacity of square steel tube columns spliced with through high-strength bolts under axial compression [J]</citedTitle>
+<citedWork>Progr. Steel Build. Struct.</citedWork>
+</reference>
+<reference occurenceOrder="29">
+<uid>WOS:000407584700001</uid>
+<citedAuthor>D'Aniello, M</citedAuthor>
+<year>2017</year>
+<page>643</page>
+<volume>24</volume>
+<citedTitle>Simplified criteria for finite element modelling of European preloadable bolts</citedTitle>
+<citedWork>STEEL AND COMPOSITE STRUCTURES</citedWork>
+<doi>10.12989/scs.2017.24.6.643</doi>
+</reference>
+<reference occurenceOrder="21">
+<uid>WOS:000501395300029</uid>
+<citedAuthor>Liu, XC</citedAuthor>
+<year>2019</year>
+<page>ARTN 109798</page>
+<volume>201</volume>
+<citedTitle>Tension-bend-shear capacity of bolted-flange connection for square steel tube column</citedTitle>
+<citedWork>ENGINEERING STRUCTURES</citedWork>
+<doi>10.1016/j.engstruct.2019.109798</doi>
+</reference>
+<reference occurenceOrder="11">
+<uid>000893217900002.11</uid>
+<citedAuthor>Hou, H.T.</citedAuthor>
+<year>2021</year>
+<volume>235</volume>
+<citedTitle>Cyclic testing of bolted base connections for wide-flange columns [J]</citedTitle>
+<citedWork>J. Constr. Steel Res.</citedWork>
+</reference>
+<reference occurenceOrder="20">
+<uid>CSCD:6064590</uid>
+<citedAuthor>Liu Xuechun</citedAuthor>
+<year>2017</year>
+<page>139</page>
+<volume>47</volume>
+<citedTitle>RESEARCH ON MECHANICAL PROPERTIES OF PREFABRICATED SQUARE STEEL TUBULAR BOLTED FLANGE JOINTS</citedTitle>
+<citedWork>Industrial Construction</citedWork>
+</reference>
+<reference occurenceOrder="2">
+<uid>WOS:000317500800018</uid>
+<citedAuthor>Dao, TN</citedAuthor>
+<year>2013</year>
+<page>837</page>
+<volume>139</volume>
+<citedTitle>Seismic Performance of an Innovative Light-Frame Cold-Formed Steel Frame for Midrise Construction</citedTitle>
+<citedWork>JOURNAL OF STRUCTURAL ENGINEERING</citedWork>
+<doi>10.1061/(ASCE)ST.1943-541X.0000683</doi>
+</reference>
+<reference occurenceOrder="26">
+<uid>000893217900002.27</uid>
+<citedAuthor>AISC (American Institute of Steel Construction)</citedAuthor>
+<year>2016</year>
+<citedTitle>Prequalified Connections for Special and Intermediate Steel Moment Frames for Seismic Applications</citedTitle>
+<citedWork>ANSI/ AISC 358-16</citedWork>
+</reference>
+<reference occurenceOrder="1">
+<uid>WOS:000264211200001</uid>
+<citedAuthor>Jaillon, L</citedAuthor>
+<year>2009</year>
+<page>239</page>
+<volume>18</volume>
+<citedTitle>The evolution of prefabricated residential building systems in Hong Kong: A review of the public and the private sector</citedTitle>
+<citedWork>AUTOMATION IN CONSTRUCTION</citedWork>
+<doi>10.1016/j.autcon.2008.09.002</doi>
+</reference>
+<reference occurenceOrder="12">
+<uid>WOS:000623854200007</uid>
+<citedAuthor>Hou, HT</citedAuthor>
+<year>2021</year>
+<page>ARTN 106547</page>
+<volume>179</volume>
+<citedTitle>Testing of bolted base connections for wide- flange columns under combined axial compression and weak-axis lateral forces</citedTitle>
+<citedWork>JOURNAL OF CONSTRUCTIONAL STEEL RESEARCH</citedWork>
+<doi>10.1016/j.jcsr.2021.106547</doi>
+</reference>
+<reference occurenceOrder="8">
+<uid>WOS:000819135700001</uid>
+<citedAuthor>Sun, DD</citedAuthor>
+<year>2022</year>
+<page>ARTN 107370</page>
+<volume>196</volume>
+<citedTitle>Seismic performance of resilient beam-column connection using replaceable stiffener angle steel</citedTitle>
+<citedWork>JOURNAL OF CONSTRUCTIONAL STEEL RESEARCH</citedWork>
+<doi>10.1016/j.jcsr.2022.107370</doi>
+</reference>
+<reference occurenceOrder="18">
+<uid>CSCD:5999462</uid>
+<citedAuthor>Liu Xuechun</citedAuthor>
+<year>2017</year>
+<page>34</page>
+<volume>38</volume>
+<citedTitle>Seismic performance of beam-column connection in bolted assembled multi-high-rise steel structure</citedTitle>
+<citedWork>Journal of Building Structures</citedWork>
+</reference>
+<reference occurenceOrder="13">
+<uid>000893217900002.13</uid>
+<citedAuthor>Liang, F.</citedAuthor>
+<year>2009</year>
+<page>47</page>
+<volume>24</volume>
+<citedTitle>Study on splice of the steel-pipe column for a complex TV tower design</citedTitle>
+<citedWork>Steel Construct.</citedWork>
+</reference>
+<reference occurenceOrder="10">
+<uid>WOS:000848309600004</uid>
+<citedAuthor>Jeddi, MZ</citedAuthor>
+<year>2022</year>
+<page>ARTN 107302</page>
+<volume>194</volume>
+<citedTitle>Behaviour of double-sleeve TubeBolt moment connections in CFT columns under cyclic loading</citedTitle>
+<citedWork>JOURNAL OF CONSTRUCTIONAL STEEL RESEARCH</citedWork>
+<doi>10.1016/j.jcsr.2022.107302</doi>
+</reference>
+<reference occurenceOrder="16">
+<uid>WOS:000423897100022</uid>
+<citedAuthor>Li, DX</citedAuthor>
+<year>2018</year>
+<page>262</page>
+<volume>141</volume>
+<citedTitle>Behaviour and design of demountable CFST column-column connections subjected to compression</citedTitle>
+<citedWork>JOURNAL OF CONSTRUCTIONAL STEEL RESEARCH</citedWork>
+<doi>10.1016/j.jcsr.2017.11.021</doi>
+</reference>
+<reference occurenceOrder="23">
+<uid>000893217900002.24</uid>
+<year>2018</year>
+<citedTitle>Sampling Locations and Sample Preparation for Mechanical Properties Tests of Steel and Steel Products</citedTitle>
+<citedWork>GB/T 2975-2018</citedWork>
+</reference>
+<reference occurenceOrder="24">
+<uid>000893217900002.25</uid>
+<year>2010</year>
+<citedTitle>Metallic Materials-Tensile Testing-Method of Test at Ambient Temperature</citedTitle>
+<citedWork>GB/T 228.1-2010</citedWork>
+</reference>
+<reference occurenceOrder="9">
+<uid>000893217900002.9</uid>
+<citedAuthor>Gunawardena, T.</citedAuthor>
+<year>2016</year>
+<citedWork>Behavior of Prefabricated Modular Building Subject to Lateral Loads</citedWork>
+</reference>
+<reference occurenceOrder="5">
+<uid>WOS:000793513500004</uid>
+<citedAuthor>Paghaleh, FJ</citedAuthor>
+<year>2022</year>
+<page>ARTN 107261</page>
+<volume>193</volume>
+<citedTitle>Seismic behavior of through beam connection to steel box-column</citedTitle>
+<citedWork>JOURNAL OF CONSTRUCTIONAL STEEL RESEARCH</citedWork>
+<doi>10.1016/j.jcsr.2022.107261</doi>
+</reference>
+<reference occurenceOrder="7">
+<uid>WOS:000860704100005</uid>
+<citedAuthor>Yang, Y</citedAuthor>
+<year>2022</year>
+<page>ARTN 107303</page>
+<volume>194</volume>
+<citedTitle>Experimental study on the seismic performance of a prefabricated steel column-column connection</citedTitle>
+<citedWork>JOURNAL OF CONSTRUCTIONAL STEEL RESEARCH</citedWork>
+<doi>10.1016/j.jcsr.2022.107303</doi>
+</reference>
+<reference occurenceOrder="22">
+<uid>WOS:000426411400035</uid>
+<citedAuthor>Liu, XC</citedAuthor>
+<year>2018</year>
+<page>439</page>
+<volume>160</volume>
+<citedTitle>Compression-bend-shearing performance of column-to-column bolted-flange connections in prefabricated multi-high-rise steel structures</citedTitle>
+<citedWork>ENGINEERING STRUCTURES</citedWork>
+<doi>10.1016/j.engstruct.2018.01.026</doi>
+</reference>
+<reference occurenceOrder="25">
+<uid>000893217900002.26</uid>
+<year>2017</year>
+<citedTitle>Code for Design of Steel Structures</citedTitle>
+<citedWork>GB 50017-2017</citedWork>
+</reference>
+<reference occurenceOrder="6">
+<uid>WOS:000174046400007</uid>
+<citedAuthor>Willibald, S</citedAuthor>
+<year>2002</year>
+<page>328</page>
+<volume>128</volume>
+<citedTitle>Experimental study of bolted HSS flange-plate connections in axial tension</citedTitle>
+<citedWork>JOURNAL OF STRUCTURAL ENGINEERING-ASCE</citedWork>
+<doi>10.1061/(ASCE)0733-9445(2002)128:3(328)</doi>
+</reference>
+<reference occurenceOrder="28">
+<uid>WOS:000436241000006</uid>
+<citedAuthor>Tartaglia, R</citedAuthor>
+<year>2018</year>
+<page>727</page>
+<volume>27</volume>
+<citedTitle>Finite element simulations on the ultimate response of extended stiffened end-plate joints</citedTitle>
+<citedWork>STEEL AND COMPOSITE STRUCTURES</citedWork>
+<doi>10.12989/scs.2018.27.6.727</doi>
+</reference>
+<reference occurenceOrder="19">
+<uid>CSCD:6244311</uid>
+<citedAuthor>Liu Xuechun</citedAuthor>
+<year>2018</year>
+<page>69</page>
+<volume>39</volume>
+<citedTitle>Bearing performance of bolted-flange connection of square steel tubular column under tension-bend-shearing combination</citedTitle>
+<citedWork>Journal of Building Structures</citedWork>
+</reference>
+<reference occurenceOrder="17">
+<uid>WOS:000433268900003</uid>
+<citedAuthor>Liu, XC</citedAuthor>
+<year>2018</year>
+<page>28</page>
+<volume>145</volume>
+<citedTitle>Bending-shear performance of column-to-column bolted-flange connections in prefabricated multi-high-rise steel structures</citedTitle>
+<citedWork>JOURNAL OF CONSTRUCTIONAL STEEL RESEARCH</citedWork>
+<doi>10.1016/j.jcsr.2018.02.017</doi>
+</reference>
+<reference occurenceOrder="3">
+<uid>WOS:000400033100027</uid>
+<citedAuthor>Liu, XC</citedAuthor>
+<year>2017</year>
+<page>360</page>
+<volume>133</volume>
+<citedTitle>Performance analysis and design of bolted connections in modularized prefabricated steel structures</citedTitle>
+<citedWork>JOURNAL OF CONSTRUCTIONAL STEEL RESEARCH</citedWork>
+<doi>10.1016/j.jcsr.2017.02.025</doi>
+</reference>
+</references>
+<addresses count="3">
+<address_name>
+<address_spec addr_no="1">
+<full_address>Beijing Univ Civil Engn &amp; Architecture, Sch Civil &amp; Transportat Engn, Beijing 100044, Peoples R China</full_address>
+<organizations count="2">
+<organization>Beijing Univ Civil Engn &amp; Architecture</organization>
+<organization pref="Y">Beijing University of Civil Engineering &amp; Architecture</organization>
+</organizations>
+<suborganizations count="1">
+<suborganization>Sch Civil &amp; Transportat Engn</suborganization>
+</suborganizations>
+<city>Beijing</city>
+<country>Peoples R China</country>
+<zip location="AC">100044</zip>
+</address_spec>
+<names count="5">
+<name seq_no="1" role="author" addr_no="1" r_id="GAU-6657-2022">
+<display_name>Zhang, Ai-lin</display_name>
+<full_name>Zhang, Ai-lin</full_name>
+<wos_standard>Zhang, AL</wos_standard>
+<first_name>Ai-lin</first_name>
+<last_name>Zhang</last_name>
+</name>
+<name seq_no="2" role="author" addr_no="1" r_id="HGF-6053-2022">
+<display_name>Chen, Xiao-dong</display_name>
+<full_name>Chen, Xiao-dong</full_name>
+<wos_standard>Chen, XD</wos_standard>
+<first_name>Xiao-dong</first_name>
+<last_name>Chen</last_name>
+</name>
+<name seq_no="3" role="author" reprint="Y" addr_no="1" r_id="GWE-7930-2022">
+<display_name>Zhang, Yan-xia</display_name>
+<full_name>Zhang, Yan-xia</full_name>
+<wos_standard>Zhang, YX</wos_standard>
+<first_name>Yan-xia</first_name>
+<last_name>Zhang</last_name>
+<email_addr>zhangyanxia@bucea.edu.cn</email_addr>
+</name>
+<name seq_no="4" role="author" addr_no="1" r_id="HHX-2984-2022">
+<display_name>Zhao, Xi</display_name>
+<full_name>Zhao, Xi</full_name>
+<wos_standard>Zhao, X</wos_standard>
+<first_name>Xi</first_name>
+<last_name>Zhao</last_name>
+</name>
+<name seq_no="5" role="author" addr_no="1" r_id="HHV-7458-2022">
+<display_name>Huang, Wei-zhen</display_name>
+<full_name>Huang, Wei-zhen</full_name>
+<wos_standard>Huang, WZ</wos_standard>
+<first_name>Wei-zhen</first_name>
+<last_name>Huang</last_name>
+</name>
+</names>
+</address_name>
+<address_name>
+<address_spec addr_no="2">
+<full_address>Collaborat Innovat Ctr Energy Conservat &amp; Emiss Re, Beijing 100044, Peoples R China</full_address>
+<organizations count="1">
+<organization>Collaborat Innovat Ctr Energy Conservat &amp; Emiss Re</organization>
+</organizations>
+<city>Beijing</city>
+<country>Peoples R China</country>
+<zip location="AC">100044</zip>
+</address_spec>
+<names count="1">
+<name seq_no="3" role="author" reprint="Y" addr_no="2" r_id="GWE-7930-2022">
+<display_name>Zhang, Yan-xia</display_name>
+<full_name>Zhang, Yan-xia</full_name>
+<wos_standard>Zhang, YX</wos_standard>
+<first_name>Yan-xia</first_name>
+<last_name>Zhang</last_name>
+<email_addr>zhangyanxia@bucea.edu.cn</email_addr>
+</name>
+</names>
+</address_name>
+<address_name>
+<address_spec addr_no="3">
+<full_address>Beijing Univ Technol, Beijing Engn Res Ctr High Rise &amp; Large Span Prestr, Beijing 100124, Peoples R China</full_address>
+<organizations count="2">
+<organization>Beijing Univ Technol</organization>
+<organization pref="Y">Beijing University of Technology</organization>
+</organizations>
+<suborganizations count="1">
+<suborganization>Beijing Engn Res Ctr High Rise &amp; Large Span Prestr</suborganization>
+</suborganizations>
+<city>Beijing</city>
+<country>Peoples R China</country>
+<zip location="AC">100124</zip>
+</address_spec>
+<names count="1">
+<name seq_no="1" role="author" addr_no="3" r_id="GAU-6657-2022">
+<display_name>Zhang, Ai-lin</display_name>
+<full_name>Zhang, Ai-lin</full_name>
+<wos_standard>Zhang, AL</wos_standard>
+<first_name>Ai-lin</first_name>
+<last_name>Zhang</last_name>
+</name>
+</names>
+</address_name>
+</addresses>
+<reprint_addresses count="1">
+<address_name>
+<address_spec addr_no="1">
+<full_address>Beijing Univ Civil Engn &amp; Architecture, Sch Civil &amp; Transportat Engn, Beijing 100044, Peoples R China</full_address>
+<organizations count="2">
+<organization>Beijing Univ Civil Engn &amp; Architecture</organization>
+<organization pref="Y">Beijing University of Civil Engineering &amp; Architecture</organization>
+</organizations>
+<suborganizations count="1">
+<suborganization>Sch Civil &amp; Transportat Engn</suborganization>
+</suborganizations>
+<city>Beijing</city>
+<country>Peoples R China</country>
+<zip location="AC">100044</zip>
+</address_spec>
+<names count="1">
+<name seq_no="1" role="author" reprint="Y" addr_no="1">
+<display_name>Zhang, Yan-xia</display_name>
+<full_name>Zhang, Yan-xia</full_name>
+<wos_standard>Zhang, YX</wos_standard>
+<first_name>Yan-xia</first_name>
+<last_name>Zhang</last_name>
+<email_addr>zhangyanxia@bucea.edu.cn</email_addr>
+</name>
+</names>
+</address_name>
+</reprint_addresses>
+<category_info>
+<headings count="1">
+<heading>Science &amp; Technology</heading>
+</headings>
+<subheadings count="1">
+<subheading>Technology</subheading>
+</subheadings>
+<subjects count="4">
+<subject ascatype="traditional">Construction &amp; Building Technology</subject>
+<subject ascatype="traditional">Engineering, Civil</subject>
+<subject ascatype="extended">Construction &amp; Building Technology</subject>
+<subject ascatype="extended">Engineering</subject>
+</subjects>
+</category_info>
+<fund_ack>
+<fund_text>
+<p>Research for this paper was supported by Joint Program of Beijing Natural Science Foundation and Education Commission (KZ201910016018) , Program for Changjiang Scholars and Innovative Research Team in University (IRT-17R06) , the National Natural Science Foundation of China (51778036) .</p>
+</fund_text>
+<grants count="3">
+<grant>
+<grant_agency>Joint Program of Beijing Natural Science Foundation and Education Commission</grant_agency>
+<grant_ids count="1">
+<grant_id>KZ201910016018</grant_id>
+</grant_ids>
+</grant>
+<grant>
+<grant_agency>Program for Changjiang Scholars and Innovative Research Team in University</grant_agency>
+<grant_agency pref="Y">Program for Changjiang Scholars &amp; Innovative Research Team in University (PCSIRT)</grant_agency>
+<grant_ids count="1">
+<grant_id>IRT-17R06</grant_id>
+</grant_ids>
+</grant>
+<grant>
+<grant_agency>National Natural Science Foundation of China</grant_agency>
+<grant_agency pref="Y">National Natural Science Foundation of China (NSFC)</grant_agency>
+<grant_ids count="1">
+<grant_id>51778036</grant_id>
+</grant_ids>
+</grant>
+</grants>
+</fund_ack>
+<keywords count="5">
+<keyword>High rise building</keyword>
+<keyword>Box section column</keyword>
+<keyword>Separated core tube flange column joint</keyword>
+<keyword>Low cycle reciprocating loading test</keyword>
+<keyword>Mechanical properties</keyword>
+</keywords>
+<abstracts count="1">
+<abstract>
+<abstract_text count="1">
+<p>This paper suggests a separated core tube flange connection column joint to ensure the horizontal shear per-formance of box section steel columns at the flange connection to meet the performance requirements of column -to-column connection in high-rise buildings and the effective connection of steel columns at the joints. Low cycle reciprocating loading tests were conducted on three specimens with different parameters (separated core tube and stiffeners) to study the seismic mechanical performance of the connection and the finite element analysis (FEA) of separated core tube column connection joint was performed. The result of the experimental study shows that the separated core tube connection joints have fuller hysteresis curves and higher energy dissipation per-formance, as well as less high-strength bolt tension at the same interlayer displacement angle. This investigation provides experimental evidence of the deformation compatibility of the separated core tube connection. The mechanical properties of the separated core tube connection is basically the same as that of the welded connection, which can realize the rigid connection of the steel box section column. According to the numerical simulation, the failure mode and mechanism of the connection were obtained. Based on the results of tests and the finite element numerical model, further analysis to the rotational performance of the separated core tube flange connection joint in elasto-plastic phase and yield-hardening phase is carried out, and a three-stage bearing capacity calculation theory of the joint in the seismic process is proposed, which was verified by the test and FEA.</p>
+</abstract_text>
+</abstract>
+</abstracts>
+</fullrecord_metadata>
+<item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="itemType_wos">
+<ids avail="N">6S8FJ</ids>
+<bib_id>201: - FEB 2023</bib_id>
+<bib_pagecount type="Journal">32</bib_pagecount>
+<keywords_plus count="2">
+<keyword>PERFORMANCE</keyword>
+<keyword>DESIGN</keyword>
+</keywords_plus>
+</item>
+</static_data>
+<dynamic_data>
+<cluster_related>
+<identifiers>
+<identifier type="accession_no" value="6S8FJ"/>
+<identifier type="issn" value="0143-974X"/>
+<identifier type="eissn" value="1873-5983"/>
+<identifier type="art_no" value="ARTN 107694"/>
+<identifier type="doi" value="10.1016/j.jcsr.2022.107694"/>
+</identifiers>
+</cluster_related>
+</dynamic_data>
+</REC>
+</records>
