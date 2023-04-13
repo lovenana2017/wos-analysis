@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?> <!-- Copyright (c) 2019 Clarivate Analytics Web of Science  -->
+<records xmlns="http://clarivate.com/schema/wok5.30/public/FullRecord">
+
+<REC r_id_disclaimer="ResearcherID data provided by Clarivate Analytics">
+<UID>WOS:000885944600004</UID>
+<static_data>
+<summary>
+<EWUID>
+<WUID coll_id="WOS"/>
+<edition value="WOS.SCI"/>
+</EWUID>
+<pub_info sortdate="2023-01-01" pubyear="2023" has_abstract="Y" coverdate="JAN 2023" pubmonth="JAN" vol="317" part_no="A" pubtype="Journal">
+<page page_count="6"/>
+</pub_info>
+<titles count="6">
+<title type="source">JOURNAL OF SOLID STATE CHEMISTRY</title>
+<title type="source_abbrev">J SOLID STATE CHEM</title>
+<title type="abbrev_iso">J. Solid State Chem.</title>
+<title type="abbrev_11">J SOL ST CH</title>
+<title type="abbrev_29">J SOLID STATE CHEM</title>
+<title type="item">Syntheses of new high-symmetric polyoxometalates with Mo4O4 cubane core</title>
+</titles>
+<names count="3">
+<name seq_no="1" role="author" addr_no="1 2">
+<display_name>Zhou, Xi -Yuan</display_name>
+<full_name>Zhou, Xi -Yuan</full_name>
+<wos_standard>Zhou, XY</wos_standard>
+<first_name>Xi -Yuan</first_name>
+<last_name>Zhou</last_name>
+</name>
+<name seq_no="2" role="author" reprint="Y" addr_no="1">
+<display_name>Wang, Fei</display_name>
+<full_name>Wang, Fei</full_name>
+<wos_standard>Wang, F</wos_standard>
+<first_name>Fei</first_name>
+<last_name>Wang</last_name>
+<email_addr>wangfei04@fjirsm.ac.cn</email_addr>
+</name>
+<name seq_no="3" role="author" reprint="Y" addr_no="1">
+<display_name>Zhang, Jian</display_name>
+<full_name>Zhang, Jian</full_name>
+<wos_standard>Zhang, J</wos_standard>
+<first_name>Jian</first_name>
+<last_name>Zhang</last_name>
+<email_addr>zhj@fjirsm.ac.cn</email_addr>
+</name>
+</names>
+<doctypes count="1">
+<doctype>Article</doctype>
+</doctypes>
+<publishers>
+<publisher>
+<address_spec addr_no="1">
+<full_address>525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA</full_address>
+<city>SAN DIEGO</city>
+</address_spec>
+<names count="1">
+<name role="publisher" seq_no="1" addr_no="1">
+<display_name>ACADEMIC PRESS INC ELSEVIER SCIENCE</display_name>
+<full_name>ACADEMIC PRESS INC ELSEVIER SCIENCE</full_name>
+<unified_name>Elsevier</unified_name>
+</name>
+</names>
+</publisher>
+</publishers>
+</summary>
+<fullrecord_metadata>
+<languages count="1">
+<language type="primary">English</language>
+</languages>
+<normalized_languages count="1">
+<language type="primary">English</language>
+</normalized_languages>
+<normalized_doctypes count="1">
+<doctype>Article</doctype>
+</normalized_doctypes>
+<references count="35">
+<reference occurenceOrder="13">
+<uid>WOS:000397125500031</uid>
+<citedAuthor>Li, XY</citedAuthor>
+<year>2017</year>
+<page>3601</page>
+<volume>9</volume>
+<citedTitle>Anion-templated nanosized silver clusters protected by mixed thiolate and diphosphine</citedTitle>
+<citedWork>NANOSCALE</citedWork>
+<doi>10.1039/c6nr09632h</doi>
+</reference>
+<reference occurenceOrder="25">
+<uid>WOS:000406798700010</uid>
+<citedAuthor>Xuan, WM</citedAuthor>
+<year>2017</year>
+<page>9727</page>
+<volume>56</volume>
+<citedTitle>Exploring the Molecular Growth of Two Gigantic Half-Closed Polyoxometalate Clusters {Mo-180} and {Mo130Ce6}</citedTitle>
+<citedWork>ANGEWANDTE CHEMIE-INTERNATIONAL EDITION</citedWork>
+<doi>10.1002/anie.201702957</doi>
+</reference>
+<reference occurenceOrder="9">
+<uid>WOS:000490306800001</uid>
+<citedAuthor>Li, N</citedAuthor>
+<year>2019</year>
+<page>17260</page>
+<volume>58</volume>
+<citedTitle>Self-Assembly of a Phosphate-Centered Polyoxo-Titanium Cluster: Discovery of the Heteroatom Keggin Family</citedTitle>
+<citedWork>ANGEWANDTE CHEMIE-INTERNATIONAL EDITION</citedWork>
+<doi>10.1002/anie.201910491</doi>
+</reference>
+<reference occurenceOrder="11">
+<uid>WOS:000635570600006</uid>
+<citedAuthor>Ge, R</citedAuthor>
+<year>2021</year>
+<page>ARTN 213787</page>
+<volume>435</volume>
+<citedTitle>Recent advances in polyoxometalate-templated high-nuclear silver clusters</citedTitle>
+<citedWork>COORDINATION CHEMISTRY REVIEWS</citedWork>
+<doi>10.1016/j.ccr.2021.213787</doi>
+</reference>
+<reference occurenceOrder="32">
+<uid>WOS:000285963200052</uid>
+<citedAuthor>Biesinger, MC</citedAuthor>
+<year>2011</year>
+<page>2717</page>
+<volume>257</volume>
+<citedTitle>Resolving surface chemical states in XPS analysis of first row transition metals, oxides and hydroxides: Cr, Mn, Fe, Co and Ni</citedTitle>
+<citedWork>APPLIED SURFACE SCIENCE</citedWork>
+<doi>10.1016/j.apsusc.2010.10.051</doi>
+</reference>
+<reference occurenceOrder="8">
+<uid>WOS:000584085400001</uid>
+<citedAuthor>Li, SR</citedAuthor>
+<year>2021</year>
+<page>ARTN 2000777</page>
+<volume>5</volume>
+<citedTitle>A Giant 3d-4f Polyoxometalate Super-Tetrahedron with High Proton Conductivity</citedTitle>
+<citedWork>SMALL METHODS</citedWork>
+<doi>10.1002/smtd.202000777</doi>
+</reference>
+<reference occurenceOrder="28">
+<uid>WOS:000688249400017</uid>
+<citedAuthor>Li, XX</citedAuthor>
+<year>2021</year>
+<page>1288</page>
+<volume>1</volume>
+<citedTitle>Design of Crystalline Reduction-Oxidation Cluster-Based Catalysts for Artificial Photosynthesis</citedTitle>
+<citedWork>JACS AU</citedWork>
+<doi>10.1021/jacsau.1c00186</doi>
+</reference>
+<reference occurenceOrder="22">
+<uid>WOS:000264946300021</uid>
+<citedAuthor>Sigmon, GE</citedAuthor>
+<year>2009</year>
+<page>2737</page>
+<volume>48</volume>
+<citedTitle>Symmetry versus Minimal Pentagonal Adjacencies in Uranium-Based Polyoxometalate Fullerene Topologies</citedTitle>
+<citedWork>ANGEWANDTE CHEMIE-INTERNATIONAL EDITION</citedWork>
+<doi>10.1002/anie.200805870</doi>
+</reference>
+<reference occurenceOrder="20">
+<uid>WOS:000462622700034</uid>
+<citedAuthor>Xu, N</citedAuthor>
+<year>2019</year>
+<page>4649</page>
+<volume>58</volume>
+<citedTitle>From Octahedral to Icosahedral Metal-Organic Polyhedra Assembled from Two Types of Polyoxovanadate Clusters</citedTitle>
+<citedWork>ANGEWANDTE CHEMIE-INTERNATIONAL EDITION</citedWork>
+<doi>10.1002/anie.201900519</doi>
+</reference>
+<reference occurenceOrder="24">
+<uid>WOS:000186961500015</uid>
+<citedAuthor>Muller, A</citedAuthor>
+<year>2003</year>
+<page>153</page>
+<volume>245</volume>
+<citedTitle>En route from the mystery of molybdenum blue via related manipulatable building blocks to aspects of materials science</citedTitle>
+<citedWork>COORDINATION CHEMISTRY REVIEWS</citedWork>
+<doi>10.1016/S0010-8545(03)00110-3</doi>
+</reference>
+<reference occurenceOrder="14">
+<uid>WOS:000452399900028</uid>
+<citedAuthor>Li, Z</citedAuthor>
+<year>2018</year>
+<page>15777</page>
+<volume>57</volume>
+<citedTitle>All-Inorganic Ionic Porous Material Based on Giant Spherical Polyoxometalates Containing Core-Shell K-6@K-36-Water Cage</citedTitle>
+<citedWork>ANGEWANDTE CHEMIE-INTERNATIONAL EDITION</citedWork>
+<doi>10.1002/anie.201810074</doi>
+</reference>
+<reference occurenceOrder="30">
+<uid>WOS:000239069400008</uid>
+<citedAuthor>Park, KS</citedAuthor>
+<year>2006</year>
+<page>10186</page>
+<volume>103</volume>
+<citedTitle>Exceptional chemical and thermal stability of zeolitic imidazolate frameworks</citedTitle>
+<citedWork>PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA</citedWork>
+<doi>10.1073/pnas.0602439103</doi>
+</reference>
+<reference occurenceOrder="3">
+<uid>WOS:000177325400040</uid>
+<citedAuthor>Nyman, M</citedAuthor>
+<year>2002</year>
+<page>996</page>
+<volume>297</volume>
+<citedTitle>A general synthetic procedure for heteropolyniobates</citedTitle>
+<citedWork>SCIENCE</citedWork>
+</reference>
+<reference occurenceOrder="21">
+<uid>WOS:000506674500001</uid>
+<citedAuthor>Dong, LZ</citedAuthor>
+<year>2020</year>
+<page>2659</page>
+<volume>59</volume>
+<citedTitle>Stable Heterometallic Cluster-Based Organic Framework Catalysts for Artificial Photosynthesis</citedTitle>
+<citedWork>ANGEWANDTE CHEMIE-INTERNATIONAL EDITION</citedWork>
+<doi>10.1002/anie.201913284</doi>
+</reference>
+<reference occurenceOrder="35">
+<uid>WOS:000508464500107</uid>
+<citedAuthor>Sun, JB</citedAuthor>
+<year>2020</year>
+<page>2944</page>
+<volume>12</volume>
+<citedTitle>Efficient Construction of Near-Infrared Absorption Donor-Acceptor Copolymers with and without Pt(II)-Incorporation toward Broadband Nonlinear Optical Materials</citedTitle>
+<citedWork>ACS APPLIED MATERIALS &amp; INTERFACES</citedWork>
+<doi>10.1021/acsami.9b17784</doi>
+</reference>
+<reference occurenceOrder="26">
+<uid>WOS:000562942200039</uid>
+<citedAuthor>Lin, JM</citedAuthor>
+<year>2020</year>
+<page>13982</page>
+<volume>142</volume>
+<citedTitle>Self-Assembly of Giant Mo-240 Hollow Opening Dodecahedra</citedTitle>
+<citedWork>JOURNAL OF THE AMERICAN CHEMICAL SOCIETY</citedWork>
+<doi>10.1021/jacs.0c06582</doi>
+</reference>
+<reference occurenceOrder="16">
+<uid>WOS:000454383400008</uid>
+<citedAuthor>Zhang, YT</citedAuthor>
+<year>2018</year>
+<page>17365</page>
+<volume>140</volume>
+<citedTitle>Self-Assembly of Goldberg Polyhedra from a Concave [WV5O11(RCO2)(5)(SO4)](3-) Building Block with 5-Fold Symmetry</citedTitle>
+<citedWork>JOURNAL OF THE AMERICAN CHEMICAL SOCIETY</citedWork>
+<doi>10.1021/jacs.8b10866</doi>
+</reference>
+<reference occurenceOrder="18">
+<uid>WOS:000367636600003</uid>
+<citedAuthor>Dong, J</citedAuthor>
+<year>2015</year>
+<page>15988</page>
+<volume>137</volume>
+<citedTitle>Ultrastrong Alkali-Resisting Lanthanide-Zeolites Assembled by [Ln(60)] Nanocages</citedTitle>
+<citedWork>JOURNAL OF THE AMERICAN CHEMICAL SOCIETY</citedWork>
+<doi>10.1021/jacs.5b10000</doi>
+</reference>
+<reference occurenceOrder="23">
+<uid>WOS:000579400400038</uid>
+<citedAuthor>Ribo, EG</citedAuthor>
+<year>2020</year>
+<page>17508</page>
+<volume>142</volume>
+<citedTitle>Synthesis, Assembly, and Sizing of Neutral, Lanthanide Substituted Molybdenum Blue Wheels {Mo(90)Ln(10)}</citedTitle>
+<citedWork>JOURNAL OF THE AMERICAN CHEMICAL SOCIETY</citedWork>
+<doi>10.1021/jacs.0c07146</doi>
+</reference>
+<reference occurenceOrder="4">
+<uid>WOS:A1980KL03100039</uid>
+<citedAuthor>KATO, R</citedAuthor>
+<year>1980</year>
+<page>6571</page>
+<volume>102</volume>
+<citedTitle>1-14 HETEROPOLYVANADATE OF PHOSPHORUS - PREPARATION AND STRUCTURE</citedTitle>
+<citedWork>JOURNAL OF THE AMERICAN CHEMICAL SOCIETY</citedWork>
+</reference>
+<reference occurenceOrder="34">
+<uid>WOS:000547975900036</uid>
+<citedAuthor>Zheng, XL</citedAuthor>
+<year>2020</year>
+<page>14225</page>
+<volume>22</volume>
+<citedTitle>Two-dimensional two-photon absorptions and third-order nonlinear optical properties ofI(h)fullerenes and fullerene onions</citedTitle>
+<citedWork>PHYSICAL CHEMISTRY CHEMICAL PHYSICS</citedWork>
+<doi>10.1039/d0cp01996h</doi>
+</reference>
+<reference occurenceOrder="2">
+<uid>WOS:000071941000009</uid>
+<citedAuthor>Muller, A</citedAuthor>
+<year>1998</year>
+<page>239</page>
+<volume>98</volume>
+<citedTitle>Polyoxometalates: Very large clusters - Nanoscale magnets</citedTitle>
+<citedWork>CHEMICAL REVIEWS</citedWork>
+</reference>
+<reference occurenceOrder="19">
+<uid>WOS:000691789500042</uid>
+<citedAuthor>Su, YM</citedAuthor>
+<year>2021</year>
+<page>13235</page>
+<volume>143</volume>
+<citedTitle>Keplerate Ag-192 Cluster with 6 Silver and 14 Chalcogenide Octahedral and Tetrahedral Shells</citedTitle>
+<citedWork>JOURNAL OF THE AMERICAN CHEMICAL SOCIETY</citedWork>
+<doi>10.1021/jacs.1c05664</doi>
+</reference>
+<reference occurenceOrder="10">
+<uid>WOS:000669407200001</uid>
+<citedAuthor>Dey, C</citedAuthor>
+<year>2022</year>
+<page>1839</page>
+<volume>33</volume>
+<citedTitle>Polyoxometalate Clusters: Inorganic Ligands for Functional Materials</citedTitle>
+<citedWork>JOURNAL OF CLUSTER SCIENCE</citedWork>
+<doi>10.1007/s10876-021-02110-8</doi>
+</reference>
+<reference occurenceOrder="27">
+<uid>WOS:000652932400003</uid>
+<citedAuthor>Wang, HY</citedAuthor>
+<year>2021</year>
+<page>959</page>
+<volume>64</volume>
+<citedTitle>Enhanced proton conductivity of Mo-154-based porous inorganic framework</citedTitle>
+<citedWork>SCIENCE CHINA-CHEMISTRY</citedWork>
+<doi>10.1007/s11426-021-9986-1</doi>
+</reference>
+<reference occurenceOrder="7">
+<uid>000885944600004.7</uid>
+<citedAuthor>Berzelius, J.J.</citedAuthor>
+<year>1826</year>
+<page>369</page>
+<volume>82</volume>
+<citedTitle>Beitrag zur naheren Kenntniss des Molybdans, the preparation of the phosphomolybdate ion [PMo12O]3</citedTitle>
+<citedWork>Ann. Phys.</citedWork>
+</reference>
+<reference occurenceOrder="6">
+<uid>WOS:000736097200001</uid>
+<citedAuthor>Zhu, ZK</citedAuthor>
+<year>2022</year>
+<page>ARTN e202113381</page>
+<volume>61</volume>
+<citedTitle>Two Giant Calixarene-Like Polyoxoniobate Nanocups {Cu12Nb120} and {Cd16Nb128} Built from Mixed Macrocyclic Cluster Motifs</citedTitle>
+<citedWork>ANGEWANDTE CHEMIE-INTERNATIONAL EDITION</citedWork>
+<doi>10.1002/anie.202113381</doi>
+</reference>
+<reference occurenceOrder="17">
+<uid>WOS:000759419200001</uid>
+<citedAuthor>Du, MH</citedAuthor>
+<year>2022</year>
+<page>ARTN e202200537</page>
+<volume>61</volume>
+<citedTitle>Hierarchical Assembly of Coordination Macromolecules with Atypical Geometries: Gd44Co28 Crown and Gd95Co60 Cage</citedTitle>
+<citedWork>ANGEWANDTE CHEMIE-INTERNATIONAL EDITION</citedWork>
+<doi>10.1002/anie.202200537</doi>
+</reference>
+<reference occurenceOrder="29">
+<uid>WOS:000286729300018</uid>
+<citedAuthor>Wang, F</citedAuthor>
+<year>2011</year>
+<page>450</page>
+<volume>50</volume>
+<citedTitle>Hybrid Zeolitic Imidazolate Frameworks with Catalytically Active TO4 Building Blocks</citedTitle>
+<citedWork>ANGEWANDTE CHEMIE-INTERNATIONAL EDITION</citedWork>
+<doi>10.1002/anie.201005917</doi>
+</reference>
+<reference occurenceOrder="33">
+<uid>WOS:000840866300001</uid>
+<citedAuthor>Jiang, XM</citedAuthor>
+<year>2022</year>
+<page>ARTN nwac017</page>
+<volume>9</volume>
+<citedTitle>Material research from the viewpoint of functional motifs</citedTitle>
+<citedWork>NATIONAL SCIENCE REVIEW</citedWork>
+<doi>10.1093/nsr/nwac017</doi>
+</reference>
+<reference occurenceOrder="15">
+<uid>WOS:000565803300007</uid>
+<citedAuthor>Liu, JH</citedAuthor>
+<year>2020</year>
+<page>10305</page>
+<volume>56</volume>
+<citedTitle>All-inorganic open frameworks based on gigantic four-shellLn@W-8@Ln(8)@(SiW12)(6)clusters</citedTitle>
+<citedWork>CHEMICAL COMMUNICATIONS</citedWork>
+<doi>10.1039/d0cc04070c</doi>
+</reference>
+<reference occurenceOrder="5">
+<uid>WOS:000347232200009</uid>
+<citedAuthor>Son, JH</citedAuthor>
+<year>2015</year>
+<page>1436</page>
+<volume>51</volume>
+<citedTitle>Reversible capping/uncapping of phosphorous-centered Keggin-type polyoxoniobate clusters</citedTitle>
+<citedWork>CHEMICAL COMMUNICATIONS</citedWork>
+<doi>10.1039/c4cc05689b</doi>
+</reference>
+<reference occurenceOrder="1">
+<uid>WOS:000188272800476</uid>
+<citedAuthor>Keggin, JF</citedAuthor>
+<year>1933</year>
+<page>908</page>
+<volume>131</volume>
+<citedTitle>Electron polarisation</citedTitle>
+<citedWork>NATURE</citedWork>
+</reference>
+<reference occurenceOrder="31">
+<uid>WOS:A1989AK37400001</uid>
+<citedAuthor>LU, YC</citedAuthor>
+<year>1989</year>
+<page>927</page>
+<volume>29</volume>
+<citedTitle>AN XPS STUDY OF THE PASSIVE AND TRANSPASSIVE BEHAVIOR OF MOLYBDENUM IN DEAERATED 0.1-M HCL</citedTitle>
+<citedWork>CORROSION SCIENCE</citedWork>
+</reference>
+<reference occurenceOrder="12">
+<uid>WOS:000448044300005</uid>
+<citedAuthor>Wang, Z</citedAuthor>
+<year>2018</year>
+<page>ARTN 4407</page>
+<volume>9</volume>
+<citedTitle>Deciphering synergetic core-shell transformation from [Mo6O22@Ag-44] to [Mo8O28@Ag-50]</citedTitle>
+<citedWork>NATURE COMMUNICATIONS</citedWork>
+<doi>10.1038/s41467-018-06755-4</doi>
+</reference>
+</references>
+<addresses count="2">
+<address_name>
+<address_spec addr_no="1">
+<full_address>Chinese Acad Sci, Fujian Inst Res Struct Matter, State Key Lab Struct Chem, Fuzhou 350002, Fujian, Peoples R China</full_address>
+<organizations count="3">
+<organization>Chinese Acad Sci</organization>
+<organization pref="Y">Chinese Academy of Sciences</organization>
+<organization pref="Y">Fujian Institute of Research on the Structure of Matter, CAS</organization>
+</organizations>
+<suborganizations count="2">
+<suborganization>Fujian Inst Res Struct Matter</suborganization>
+<suborganization>State Key Lab Struct Chem</suborganization>
+</suborganizations>
+<city>Fuzhou</city>
+<state>Fujian</state>
+<country>Peoples R China</country>
+<zip location="AC">350002</zip>
+</address_spec>
+<names count="3">
+<name seq_no="1" role="author" addr_no="1" r_id="HGI-6862-2022">
+<display_name>Zhou, Xi -Yuan</display_name>
+<full_name>Zhou, Xi -Yuan</full_name>
+<wos_standard>Zhou, XY</wos_standard>
+<first_name>Xi -Yuan</first_name>
+<last_name>Zhou</last_name>
+</name>
+<name seq_no="2" role="author" reprint="Y" addr_no="1" r_id="FYQ-0934-2022">
+<display_name>Wang, Fei</display_name>
+<full_name>Wang, Fei</full_name>
+<wos_standard>Wang, F</wos_standard>
+<first_name>Fei</first_name>
+<last_name>Wang</last_name>
+<email_addr>wangfei04@fjirsm.ac.cn</email_addr>
+</name>
+<name seq_no="3" role="author" reprint="Y" addr_no="1" r_id="HEV-5756-2022">
+<display_name>Zhang, Jian</display_name>
+<full_name>Zhang, Jian</full_name>
+<wos_standard>Zhang, J</wos_standard>
+<first_name>Jian</first_name>
+<last_name>Zhang</last_name>
+<email_addr>zhj@fjirsm.ac.cn</email_addr>
+</name>
+</names>
+</address_name>
+<address_name>
+<address_spec addr_no="2">
+<full_address>Univ Chinese Acad Sci, Beijing 100049, Peoples R China</full_address>
+<organizations count="3">
+<organization>Univ Chinese Acad Sci</organization>
+<organization pref="Y">Chinese Academy of Sciences</organization>
+<organization pref="Y">University of Chinese Academy of Sciences, CAS</organization>
+</organizations>
+<city>Beijing</city>
+<country>Peoples R China</country>
+<zip location="AC">100049</zip>
+</address_spec>
+<names count="1">
+<name seq_no="1" role="author" addr_no="2" r_id="HGI-6862-2022">
+<display_name>Zhou, Xi -Yuan</display_name>
+<full_name>Zhou, Xi -Yuan</full_name>
+<wos_standard>Zhou, XY</wos_standard>
+<first_name>Xi -Yuan</first_name>
+<last_name>Zhou</last_name>
+</name>
+</names>
+</address_name>
+</addresses>
+<reprint_addresses count="1">
+<address_name>
+<address_spec addr_no="1">
+<full_address>Chinese Acad Sci, Fujian Inst Res Struct Matter, State Key Lab Struct Chem, Fuzhou 350002, Fujian, Peoples R China</full_address>
+<organizations count="3">
+<organization>Chinese Acad Sci</organization>
+<organization pref="Y">Chinese Academy of Sciences</organization>
+<organization pref="Y">Fujian Institute of Research on the Structure of Matter, CAS</organization>
+</organizations>
+<suborganizations count="2">
+<suborganization>Fujian Inst Res Struct Matter</suborganization>
+<suborganization>State Key Lab Struct Chem</suborganization>
+</suborganizations>
+<city>Fuzhou</city>
+<state>Fujian</state>
+<country>Peoples R China</country>
+<zip location="AC">350002</zip>
+</address_spec>
+<names count="2">
+<name seq_no="1" role="author" reprint="Y" addr_no="1">
+<display_name>Wang, Fei</display_name>
+<full_name>Wang, Fei</full_name>
+<wos_standard>Wang, F</wos_standard>
+<first_name>Fei</first_name>
+<last_name>Wang</last_name>
+<email_addr>wangfei04@fjirsm.ac.cn</email_addr>
+</name>
+<name seq_no="2" role="author" reprint="Y" addr_no="1">
+<display_name>Zhang, Jian</display_name>
+<full_name>Zhang, Jian</full_name>
+<wos_standard>Zhang, J</wos_standard>
+<first_name>Jian</first_name>
+<last_name>Zhang</last_name>
+</name>
+</names>
+</address_name>
+</reprint_addresses>
+<category_info>
+<headings count="1">
+<heading>Science &amp; Technology</heading>
+</headings>
+<subheadings count="1">
+<subheading>Physical Sciences</subheading>
+</subheadings>
+<subjects count="3">
+<subject ascatype="traditional">Chemistry, Inorganic &amp; Nuclear</subject>
+<subject ascatype="traditional">Chemistry, Physical</subject>
+<subject ascatype="extended">Chemistry</subject>
+</subjects>
+</category_info>
+<fund_ack>
+<fund_text>
+<p>Acknowledgments We thank for the financial support by NSFC (21971241, 21861014) .</p>
+</fund_text>
+<grants count="3">
+<grant>
+<grant_agency>NSFC</grant_agency>
+<grant_agency pref="Y">National Natural Science Foundation of China (NSFC)</grant_agency>
+</grant>
+<grant>
+<grant_ids count="1">
+<grant_id>21971241</grant_id>
+</grant_ids>
+</grant>
+<grant>
+<grant_ids count="1">
+<grant_id>21861014</grant_id>
+</grant_ids>
+</grant>
+</grants>
+</fund_ack>
+<keywords count="3">
+<keyword>Polyoxometalates</keyword>
+<keyword>Keggin POM</keyword>
+<keyword>Third order nonlinear optical (NLO) properties</keyword>
+</keywords>
+<abstracts count="1">
+<abstract>
+<abstract_text count="1">
+<p>Presented here are a series of new polyoxometalates (POMs) containing Mo4O4 core. Thanks to the large Mo4O4 cubane template, the new cluster exhibits the same Td symmetry as classic Keggin POM but higher nuclear number and more heterometal atoms. Moreover, the third order nonlinear optical (NLO) properties of them are also researched.</p>
+</abstract_text>
+</abstract>
+</abstracts>
+</fullrecord_metadata>
+<item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="itemType_wos">
+<ids avail="N">6I2FL</ids>
+<bib_id>317: - Part A JAN 2023</bib_id>
+<bib_pagecount type="Journal">60</bib_pagecount>
+<keywords_plus count="3">
+<keyword>CLUSTERS</keyword>
+<keyword>MOLYBDENUM</keyword>
+<keyword>FRAMEWORKS</keyword>
+</keywords_plus>
+</item>
+</static_data>
+<dynamic_data>
+<cluster_related>
+<identifiers>
+<identifier type="accession_no" value="6I2FL"/>
+<identifier type="issn" value="0022-4596"/>
+<identifier type="eissn" value="1095-726X"/>
+<identifier type="art_no" value="ARTN 123647"/>
+<identifier type="doi" value="10.1016/j.jssc.2022.123647"/>
+</identifiers>
+</cluster_related>
+<ic_related>
+<oases count="1" is_OA="Yes">
+<oas type="bronze"/>
+</oases>
+</ic_related>
+</dynamic_data>
+</REC>
+
+</records>
